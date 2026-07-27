@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ethan's Mission</title>
+  <meta name="description" content="Letters from Ethan Nelson's mission in Brazil, illustrated as comics.">
+  <meta property="og:title" content="Ethan's Mission">
+  <meta property="og:description" content="Letters from Ethan's mission in Brazil.">
+  <meta property="og:type" content="website">
+
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="./">Ethan's Mission</a>
+      <nav aria-label="Primary">
+        <a class="nav-link" href="./">Letters</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <h1>Ethan's Mission</h1>
+      <p class="subtitle">Letters from Belo Horizonte to Mom</p>
+      <p class="lede">
+        Forty letters home from Brazil, each one paired with an illustrated comic strip.
+        Use the grid below to jump to any letter, or start at the beginning and read through.
+      </p>
+    </section>
+
+    <section class="grid-section" aria-labelledby="letters-heading">
+      <h2 id="letters-heading" class="visually-hidden" style="position:absolute;left:-9999px;">
+        All Letters
+      </h2>
+      <ul class="letter-grid" id="letter-grid">
+        <!-- Cards rendered by index.js from data/letters.json -->
+        <li style="grid-column: 1 / -1; text-align: center; color: var(--ink-soft);">
+          Loading letters…
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Made with love for Heather · <a href="https://github.com/">View source</a></p>
+  </footer>
+
+  <script src="assets/js/index.js" defer></script>
+</body>
+</html>

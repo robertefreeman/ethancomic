@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Letter · Ethan's Mission</title>
+  <meta name="description" content="A letter from Ethan's mission in Brazil.">
+
+  <link rel="icon" href="data:,">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="./">Ethan's Mission</a>
+      <nav aria-label="Primary">
+        <a class="nav-link" href="./">All Letters</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <article class="letter-page" id="letter-article" aria-live="polite">
+      <!-- Filled in by viewer.js -->
+      <p style="text-align: center; color: var(--ink-soft);">Loading letter…</p>
+    </article>
+
+    <nav class="letter-nav" aria-label="Letter navigation">
+      <button class="btn" id="prev-btn" type="button" aria-label="Previous letter">
+        ← Prev
+      </button>
+      <span class="position" id="position">— of —</span>
+      <button class="btn" id="next-btn" type="button" aria-label="Next letter">
+        Next →
+      </button>
+    </nav>
+  </main>
+
+  <footer class="site-footer">
+    <p>Made with love for Heather · <a href="./">All Letters</a></p>
+  </footer>
+
+  <script src="assets/js/viewer.js" defer></script>
+</body>
+</html>
