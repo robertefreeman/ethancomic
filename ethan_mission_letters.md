@@ -1731,3 +1731,36 @@ Images:
  LETTER-040_20260717_211126.jpg
 
 ---
+
+## LETTER-041: Chuvão
+
+**Email ID:** `19fab1282c61939f`
+**Letter Date:** `2026-07-28` (inferred)
+
+Olá,
+
+Not a super interesting week this week. We had Zone Conference so I got to
+see all my friends again, and that was pretty fun.
+
+Our WhatsApp got blocked again, (we use WhatsApp to talk to literally
+everybody), it's really annoying having it blocked, also because of this,
+probably won't have too many photos this week.  Most that were taken with
+me are on WhatsApp.
+
+Besides that this week hasn't been too interesting, it rained a lot and our
+house has been smelling like wet feet because we use the heater to dry our
+shoes out. It's definitely Álvarez's feet that smell worse, in case any of
+you were curious.  It's currently raining as I write this email, so it's
+likely that our apartment won't be smelling any better this week. There was
+a guy that told us as we were leaving his house after teaching him that he
+wasn't selling drugs, which I thought was pretty funny.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-041_1000400900.jpg
+ LETTER-041_Image.jpg
+
+
+---
