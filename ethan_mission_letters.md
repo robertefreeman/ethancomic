@@ -1764,3 +1764,38 @@ Images:
 
 
 ---
+
+## LETTER-042: Transferência
+
+**Email ID:** `19fd214dcd2cb598`
+**Letter Date:** `2026-08-05` (inferred)
+
+Olá,
+
+Moving areas again. I'm going to Novo Hamburgo (a city a little further
+north than Porto Alegre) with Elder Lúcio, who is finishing his mission
+this transfer. Nothing too interesting happened this week, but at least we
+got our WhatsApp back.  It was hotter here (33°C) than where I live in
+Virginia on Saturday, and on that day the irmão told us that August is the
+coldest month, but I'm not particularly inclined to believe him.
+
+We had a guy tell us the way he found God was by going to prison and his
+pastor there killed his wife, but I guess that just means God works in
+mysterious ways.
+
+I got hit with a pie at a activity, so glad that i can leave that
+embarrassing moment behind (we played a game, where if you answered a
+question wrong, you got hit with a pie).  The video is attached-hopefully
+the link works. Gonna be sad to leave mi hijo behind, but I'm sure it'll be
+exciting in Novo Hamburgo.
+
+Tchau,
+Elder Nelson
+
+https://photos.google.com/share/AF1QipPRgnfPeHqXHhPda_m2RLfvrMEzhxhnFMPThug2APvd3YoIwPFgtNkj-Y3-K-FLWw/photo/AF1QipN7Pgmxb3toq8qVfVFwkU838fp3GIP1TkJVoOCI?key=cVhmaXNfWV9td212Mlh6Z3JwWUhsZXIzaXFBa2xB
+
+Images:
+ LETTER-042_VID-20260803-WA0007.mp4
+
+
+---
