@@ -1799,3 +1799,41 @@ Images:
 
 
 ---
+
+## LETTER-043: Noticias de Novo Hamburgo
+
+**Email ID:** `19ff6d1ee92907ca`
+**Letter Date:** `2026-08-12` (inferred)
+
+Olá,
+I'm in Novo Hamburgo now. I think this area I'm in right now, which I think
+if it existed in the US my family would not be able to afford. There's also
+this other town that we are in charge of that has a lot of very ethnically
+German people, and I have discovered that my companion has been nicknamed
+by them. It is Schwarz (look it up on Google translate), so I also find
+that really funny. I also assume that anyone else with more melanin than I
+would have this nickname.
+
+I had a lunch in english this week, it was really weird speaking in English
+after so long just in portuguese. The people giving us lunch was a member
+and his Filipina wife (lunch was in english because she cant speak
+Portuguese), both of which did not speak great English, which makes me
+wonder how they handle their arguments.
+
+There was this massive storm this week and our roof shingles came off and
+we had to put buckets on the floor to catch the drops. We taught this lady
+this week that is in her mid 50s that told us that she had her first
+daughter at 15, and her daughters had their first children at 13 and 14,
+(so she became a grandma at 29) which i thought was absolutely wild (she
+was also pregnant with her 5th kid when we talked to her).
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-043_IMG-20260806-WA0004.jpg
+ LETTER-043_20260808_113509.jpg
+ LETTER-043_20260809_121824.jpg
+
+
+---
