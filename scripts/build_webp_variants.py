@@ -5,8 +5,8 @@ build_webp_variants.py — Convert LETTER-NNN-comic.png → LETTER-NNN-comic.web
 Generates a WebP copy of each comic PNG at quality 85 (visually lossless for
 line-art comics, typically 60-70% size reduction vs PNG).
 
-Outputs land in the repo root alongside the source PNGs so the docs/ site can
-reference them via ../LETTER-NNN-comic.webp.
+Outputs land in docs/assets/img/ alongside the source PNGs so the docs/ site
+can reference them via /assets/img/LETTER-NNN-comic.webp.
 
 Usage:
     python3 scripts/build_webp_variants.py [--quality 85] [--dry-run]
@@ -29,9 +29,10 @@ def main() -> int:
     args = ap.parse_args()
 
     repo_root = Path(__file__).resolve().parent.parent
-    pngs = sorted(repo_root.glob("LETTER-*-comic.png"))
+    img_dir = repo_root / "docs" / "assets" / "img"
+    pngs = sorted(img_dir.glob("LETTER-*-comic.png"))
     if not pngs:
-        print("ERROR: no LETTER-*-comic.png files found in repo root", file=sys.stderr)
+        print(f"ERROR: no LETTER-*-comic.png files found in {img_dir}", file=sys.stderr)
         return 1
 
     print(f"Found {len(pngs)} PNGs. Converting to WebP at quality={args.quality}…")

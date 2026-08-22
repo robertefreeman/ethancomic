@@ -1837,3 +1837,33 @@ Images:
 
 
 ---
+
+## LETTER-044: Chuvão
+
+**Email ID:** `1a01702ff2a19a51`
+**Letter Date:** `2026-08-18` (inferred)
+
+Olá,
+
+Not too much happened this week. It rained a lot, so we weren't able to
+talk to many people or do anything interesting.
+
+I got recruited to be part of a choir because my companion (Elder Lúcio)
+likes to sing so I've been learning the state song of Rio Grande do Sul.
+It's been pretty interesting, I did not think I would ever be part of a
+choir but I have discovered that I'm a bass.
+
+I've been baking a lot this week and have perfected banana bread. Hopefully
+my future wife likes banana bread because I don't know how to make a lot
+more than that. Hopefully this next week ends up being interesting.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-044_20260815_142922.jpg
+ LETTER-044_Messenger_creation_BF2C3541-88CE-497D-8B9D-C39FC5FD6ABA.jpeg
+ LETTER-044_Messenger_creation_3A257FA4-DA23-468E-B6A2-18E0FB44C0C9.jpeg
+
+
+---
