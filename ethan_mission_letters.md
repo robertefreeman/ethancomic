@@ -1867,3 +1867,34 @@ Images:
 
 
 ---
+
+## LETTER-045: Mudança
+
+**Email ID:** `1a03e94f5cb80562`
+**Letter Date:** `2026-08-26` (inferred)
+
+Olá,
+
+Helped with a move this week. That was pretty fun, but I'm still sore from
+moving the refrigerator. Besides that, nothing much has happened. My
+mission president changed the rules for our p day (preparation day, it's
+Monday and when we are supposed to do all the stuff we need to do be
+prepared for the week, and when I'm allowed to call my family and play
+sports). He switched it so that now we aren't allowed to meet up as a zone
+anymore (all those pictures with more than 4-6 missionaries was me and my
+zone), so I'm pretty bummed because it looks like there won't be too much
+more volleyball in my future. This transfer is also only 5 weeks, so here
+in 2 weeks I'll have transfer news. I also hit a year next Tuesday, so I'm
+pretty excited about that.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-045_20260823_195117.jpg
+ LETTER-045_Messenger_creation_1DFF1A68-91AC-4B99-AFA7-03E894E3F544.jpeg
+ LETTER-045_Messenger_creation_137F1D6E-CCB6-471E-B92D-73484BE98CE7.jpeg
+ LETTER-045_Messenger_creation_7530AEE1-775C-4244-903D-10BAE0BFEAA6.jpeg
+
+
+---
