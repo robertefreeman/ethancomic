@@ -1898,3 +1898,40 @@ Images:
 
 
 ---
+
+## LETTER-046: Um aninho
+
+**Email ID:** `1a06217b0dca387e`
+**Letter Date:** `2026-09-02` (inferred)
+
+Olá,
+
+I've been a missionary for 365 days. It's kind of wild to think that this
+is my life now. I can't believe that within a year i've gone from not
+speaking any portuguese to being able to tell the irmãs that i want
+strogonoff for lunch again.  I'm not sure how my clothes have survived this
+long, hopefully they can make it through the next year (I don't think my
+socks or shoes are making it to 2027). We celebrated my 1 year by buying a
+pizza today with my district so that was pretty sweet.
+
+We had Zone Conference this week, it was pretty dope because I got to see
+my amor Elder Roberts and some of my other friends. We also had some really
+good strogonoff. We also had two baptisms yesterday and that was pretty
+dope.  Elder Lúcio had to give a little testimony because he is leaving and
+he said something that I really liked. He said that he had seen the quote
+"how lucky i am to have something so special that saying good-bye is so
+hard"  and that really resonated with me. So this week's pensive thought is
+that you should go tell those special people how much they mean to you.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-046_Messenger_creation_08B046EF-A59B-4D16-B4BA-71BC9D99C956.jpeg
+ LETTER-046_Messenger_creation_09194282-CE99-489A-8E33-623C06DA288D.jpeg
+ LETTER-046_Messenger_creation_CD7D9E98-4C28-4639-A232-C00F3FCF9B89.jpeg
+ LETTER-046_Messenger_creation_DDEC330F-4C8B-475E-BC5C-290B6B61293A.jpeg
+ LETTER-046_Messenger_creation_E648AA2D-A6E2-4DE5-B4DF-CEFFBB9B4FE9.jpeg
+
+
+---
