@@ -1935,3 +1935,35 @@ Images:
 
 
 ---
+
+## LETTER-047: Transferência
+
+**Email ID:** `1a086d884cf54ea7`
+**Letter Date:** `2026-09-09` (inferred)
+
+Olá,
+
+Elder Lucio left me today. I'll be staying here in Primavera and getting
+Elder Lopes from Minas Gerais. I'm glad to stay, I really like this area.
+
+I went to a lot of Rodízios (buffets) this week. I'm probably like 5 pounds
+fatter now. I'm so incredibly broke right now I don't even think I have
+money for ramen. But it was totally worth it for the pizza, and I'll get
+some more money this week.
+
+We went to the temple too, and that was pretty great. Saw Elder Roberts
+there and that was pretty awesome. Besides that, not too much went on this
+week, it was mostly just Lúcio saying goodbye to everybody and packing up.
+Met a guy that was a missionary with my dad, and it turns out that my dad
+was a pretty wild 20 year old.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-047_IMG-20260907-WA0058.jpg
+ LETTER-047_Messenger_creation_F9D774D6-B2E3-4DEE-8B42-EFCC07D9DDF1.jpeg
+ LETTER-047_Messenger_creation_2296D3CA-ACFC-4A1F-B0B7-6A2B1885B4E8.jpeg
+
+
+---
