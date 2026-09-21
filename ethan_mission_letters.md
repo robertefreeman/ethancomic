@@ -1967,3 +1967,36 @@ Images:
 
 
 ---
+
+## LETTER-048: Cuscuz
+
+**Email ID:** `1a0aa4d27ba1a9ad`
+**Letter Date:** `2026-09-16` (inferred)
+
+Olá,
+
+Been a pretty boring week. Elder Lopes, my new comp, is pretty chill, he's
+got a fiancée, so iIm kind of jealous that he already knows what he's doing
+after the mission. He's been making me a lot of cuzcuz (couscous in
+English), so I've been getting fat. Got some Nutella this week from a
+member, which is super nice because it's super expensive here, so I've just
+been eating it raw.
+
+Met a member that lived near the Navy base where I lived when I lived in
+Japan, so that was pretty wild and definitely not something I would have
+expected to have found out. Met up with my district today to play soccer,
+so that was pretty fun.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-048_20260911_143650.jpg
+ LETTER-048_IMG-20260908-WA0013.jpg
+ LETTER-048_IMG-20260909-WA0031.jpg
+ LETTER-048_IMG-20260914-WA0003.jpg
+ LETTER-048_IMG-20260914-WA0004.jpg
+ LETTER-048_IMG-20260914-WA0007.jpg
+
+
+---
