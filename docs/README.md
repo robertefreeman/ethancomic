@@ -30,13 +30,13 @@ docs/
     └── letters.json        # Generated, 40 letters
 
 scripts/
-├── build_letters_data.py   # ethan_mission_letters.md → docs/data/letters.json
+├── build_letters_data.py   # ethan_mission_letters/ethan_mission_letters.md → docs/data/letters.json
 └── build_webp_variants.py  # PNG → WebP for every LETTER-*-comic.png
 ```
 
 ## Refresh workflow (when new letters arrive)
 
-After new letters are added to `ethan_mission_letters.md` (via the
+After new letters are added to `ethan_mission_letters/ethan_mission_letters.md` (via the
 `ethan-comic-project` skill's archive workflow), regenerate the site data:
 
 ```bash

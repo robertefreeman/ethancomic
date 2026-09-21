@@ -264,9 +264,10 @@ def parse_block(block: str) -> dict:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__)
+    default_md = Path("ethan_mission_letters/ethan_mission_letters.md") if Path("ethan_mission_letters/ethan_mission_letters.md").exists() else Path("ethan_mission_letters.md")
     ap.add_argument(
         "--md",
-        default="ethan_mission_letters.md",
+        default=str(default_md),
         help="Path to the source markdown archive",
     )
     ap.add_argument(

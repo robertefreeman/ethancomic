@@ -26,9 +26,9 @@ Reason:
 
 Use all of the following for every comic:
 
-1. `ethan_mission_letters.md` (letter narrative source)
+1. `ethan_mission_letters/ethan_mission_letters.md` (letter narrative source)
 2. `ethan_mission_letters/attachments/` (letter-specific reference photos/videos)
-3. `ethan-comic-example.png` (overall look-and-feel/style consistency reference)
+3. `archive/ethan-comic-example.png` (overall look-and-feel/style consistency reference)
 4. `ethan-character-sheet-90s.png` (primary character consistency reference for Ethan in all comics)
 5. `GPT-IMAGE-PROMPTING-GUIDE.md` (prompting best practices for `gpt-image-2`)
 
@@ -74,12 +74,12 @@ Pattern: `LETTER-XXX-comic.png`
 
 ## Generation Workflow
 
-1. Select a letter from `ethan_mission_letters.md`.
+1. Select a letter from `ethan_mission_letters/ethan_mission_letters.md`.
 2. Gather all matching references from `ethan_mission_letters/attachments/` using the same letter ID prefix (for example, `LETTER-013_*`).
 3. Read the selected letter and extract key beats to determine panel count and scene sequence.
 4. Prepare image references with explicit roles:
    - Image 1: `ethan-character-sheet-90s.png` as identity/style authority
-   - Image 2: `ethan-comic-example.png` as layout/storytelling reference
+   - Image 2: `archive/ethan-comic-example.png` as layout/storytelling reference
    - Images 3-N: all `LETTER-XXX` attachments as scene/person/location references
 5. Build a prompt that references:
    - Ethan character consistency and style lock via `ethan-character-sheet-90s.png` (follow extremely closely)
@@ -125,7 +125,7 @@ NEGATIVE CONSTRAINTS (MANDATORY):
 
 - Ethan and companion character presentation follows `ethan-character-sheet-90s.png` incredibly closely with no noticeable drift.
 - Character and scene style is clearly 1990s comic-strip cartoon (not photorealistic or painterly).
-- Panel storytelling/layout remains aligned with `ethan-comic-example.png`.
+- Panel storytelling/layout remains aligned with `archive/ethan-comic-example.png`.
 - Letter-specific attachments are reflected in scenes/people/settings.
 - Real reference images were supplied to the active image workflow, not just described in prompt text.
 - No extra story details are added beyond what is in the original letter and attachments.
