@@ -3,12 +3,12 @@
 Collection of all missionary letters sent by Heather Nelson on behalf of Elder Ethan Nelson.
 
 Each entry includes the email date, subject, unique letter ID, and the full letter text.
-Dates are taken from the Gmail message headers.
-
+Dates are listed as either explicit (from email headers) or inferred from letter attachment timestamps.
 The **Letter ID** (e.g. `LETTER-001`) can be used to link back to the original email and any
 attached pictures/documents for future reference.
 
 ---
+
 
 ## LETTER-001: Fwd: 1 down-23 left
 
@@ -49,8 +49,6 @@ Begin forwarded message:
 Sent from my iPhone Begin forwarded message: From: Heather Nelson &lt;heather.jean.nelson@gmail.com&gt; Date: October 5, 2025 at 7:58:33 PM EDT To: Liv Freeman &lt;olivia.reese.freeman@gmail.com&gt; Subject: Fwd: 1 down-23 left ﻿ Sent from my iPhone Begin forwarded message: From: Heather Nelson &lt;heather.jean.nelson@gmail.com&gt; Date: October 5, 2025 at 9:49:28 AM EDT To: Eric Nelson &lt;eric.scott.nelson@gmail.com&gt;, Stephen Tolman &lt;srtolman@gmail.com&gt;, Lance Tolman &lt;ldt27@hotmail.com&gt;, Brandon Tolman &lt;bnamlot@gmail.com&gt;, Jessica Redd Tolman &lt;jredd3@gmail.com&gt;, Connie Munguia &lt;crtlmunguia@yahoo.com&gt;, GARY L NELSON &lt;gary_nelson01@msn.com&gt;, hallca1022@gmail.com, Edith Freeman &lt;edie2.freeman@gmail.com&gt;, Theresa Walker &lt;walkerhh06@yahoo.com&gt;, Brooke Tolman &lt;btolman1027@gmail.com&gt;, lilvdfam@yahoo.com, robertzka@gmail.com, Kelson Lee &lt;Kelson.Lee@missionary.org&gt;, Amy Aplanalp &lt;amyaplanalp@gmail.com&gt;, Ethan Nelson &lt;ethan.s.nelson@missionary.org&gt;, Jake Aplanalp &lt;jakeaplanalp@gmail.com&gt;, Amy &lt;adargerstewart@gmail.com&gt;, Cari Freeman &lt;carifreeman@me.com&gt;, Tara Nelson &lt;taramichellenelson@gmail.com&gt;, Cade Nelson &lt;cadenelson10@gmail.com&gt;, Tiffany Fleming &lt;tiffanyfleming@gmail.com&gt;, Teagan Tolman &lt;teagra632@gmail.com&gt;, Mom and Dad Prosek &lt;rprosek@gmail.com&gt;, mueller.jonathan@missionary.org, Gwen and Dennis Thompson &lt;dentgwhen@msn.com&gt;, Annette Nelson &lt;annelson6@gmail.com&gt;, Nataliejanebeal@gmail.com, Kailey Nelson &lt;kailey.nelson@gmail.com&gt;, shannonleehomes4u@gmail.com Subject: 1 down-23 left ﻿ Hi Everyone, I finished the first month of my&nbsp;mission!&nbsp; We are officially the grandpa's of the CTM. During our sacrament meeting on Sunday, Brazilian jets were flying around the city, and it was pretty loud. We were on the second floor so I couldn't see the planes very well,&nbsp;but I could hear them.&nbsp; This week my trio got broken up😢.&nbsp; Elder Roberts (the one from New Zealand) got paired up with a new Elder, Elder Röesti. He's from Switzerland and just got his visa, so he's already been on his mission for 6 weeks. He has been serving in Germany for the past 6 weeks while he was waiting for his visa.&nbsp; He's pretty cool. Not much else happened this week, hopefully something cool happens next week. I'm excited to leave soon. Love, Elder Nelson &lt;received_678104468663034.jpeg&gt; &lt;received_1135841388520541.jpeg&gt; &lt;20250929_182329.jpg&gt;
 
 Images:
-
----
 
 ---
 
@@ -100,8 +98,6 @@ Images:
 
 ---
 
----
-
 ## LETTER-003: First real week as a missionary
 
 **Email ID:** `19a07dde79844f97`
@@ -140,9 +136,39 @@ Images:
 
 ---
 
+## LETTER-004: Second Week (couldn't think of anything wittier)
+
+**Email ID:** `19a2fefc843b59af`
+**Letter Date:** `2025-10-29`
+
+Ola,
+Portuguese has gotten a little better this week. Tried some new foods this
+week. Tried a Xis burger (look up why it's  pronounced that way, it's
+pretty funny). It's a cheeseburger, but they put corn and peas on it. It
+was pretty good. I also had hotdogs that also had peas and corn on them. I
+liked that as well. We have to help with English classes on Saturdays
+because the lady that teaches it doesn't speak any portuguese, and she has
+been here for 12 years, which is wild to me. Had my first district
+transfer, which is when I switch companions for a day and sometimes areas.
+I went to Cachoeirinha, which is more metropolitan than my area. It was
+pretty cool being in a city compared to my area. Nothing else really
+exciting happened this week, hopefully someone will offer me one of their
+six dogs or something.
+
+
+Tchau
+Elder Nelson
+
+Picture--sunset while playing soccer
+
+Ola, Portuguese has gotten a little better this week. Tried some new foods this week. Tried a Xis burger (look up why it&#39;s pronounced that way, it&#39;s pretty funny). It&#39;s a cheeseburger, but they put corn and peas on it. It was pretty good. I also had hotdogs that also had peas and corn on them. I liked that as well. We have to help with English classes on Saturdays because the lady that teaches it doesn&#39;t speak any portuguese, and she has been here for 12 years, which is wild to me. Had my first district transfer, which is when I switch companions for a day and sometimes areas. I went to Cachoeirinha, which is more metropolitan than my area. It was pretty cool being in a city compared to my area. Nothing else really exciting happened this week, hopefully someone will offer me one of their six dogs or something. Tchau Elder Nelson Picture--sunset while playing soccer
+
+Images:
+ LETTER-004_20251025_184659.jpg
+
 ---
 
-## LETTER-004: They call me the alemão
+## LETTER-005: They call me the alemão
 
 **Email ID:** `19a4fdb46a2dede4`
 **Letter Date:** `2025-11-04`
@@ -182,15 +208,13 @@ One of the other elders holding the cake we made this past weekend.
 Elder Wilson and I eating with a member.
 
 Images:
- LETTER-004_20251102_192759.jpg
- LETTER-004_20251103_205158.jpg
- LETTER-004_IMG-20251027-WA0007.jpg
+ LETTER-005_20251102_192759.jpg
+ LETTER-005_20251103_205158.jpg
+ LETTER-005_IMG-20251027-WA0007.jpg
 
 ---
 
----
-
-## LETTER-005: Surprisingly Cold in Brasil
+## LETTER-006: Surprisingly Cold in Brasil
 
 **Email ID:** `19a750dd5f5737cd`
 **Letter Date:** `2025-11-11`
@@ -226,20 +250,18 @@ punchbuggy)
 I thought it would be hot in Brasil by now, but I guess I was wrong. This week has been the hottest/coldest I&#39;ve been on the mission. It was 35 degrees (celcius, for some reason, Brasil uses the inferior metric system) on Wednesday when I was in Cachoeirinha (different area than mine, we were doing a division, in which two companionships swap, and i ended up in Cachoeirinha) and I was baking from the heat. Then from Thursday-Saturday it was raining and never got above 19 degrees. I was in my coat and still a little cold (but that might have been because I was wet). I also had my first Zone Conference this week. Zone Conference is when all the missionaries in a certain area get together to listen to the President and to do some practices with other missionaries. It was a lot of fun, and I met some missionaries that knew some of the same people I did in Virginia. This week I get to go to the Porto Alegre temple for the first time because a guy that my companion baptized is going, and invited us to go with him. People have already started setting up for Christmas (Natal in Brasil) and some of the houses went all out, and really surprised my companion, as he says that last year he didn&#39;t see any decorations. Valeu, Elder Nelson Some people had told me that I should start keeping count of things I see often in Brasil, So.... I saw 26 Volkswagen beetles this week (and yes, me and my companion do play punchbuggy)
 
 Images:
- LETTER-005_20251108_140648.jpg
- LETTER-005_20251108_195444.jpg
- LETTER-005_IMG-20251106-WA0001.jpg
- LETTER-005_IMG-20251111-WA0011.jpg
- LETTER-005_IMG-20251111-WA0012.jpg
- LETTER-005_IMG-20251111-WA0015.jpg
- LETTER-005_IMG-20251111-WA0016.jpg
- LETTER-005_IMG-20251111-WA0017.jpg
+ LETTER-006_20251108_140648.jpg
+ LETTER-006_20251108_195444.jpg
+ LETTER-006_IMG-20251106-WA0001.jpg
+ LETTER-006_IMG-20251111-WA0011.jpg
+ LETTER-006_IMG-20251111-WA0012.jpg
+ LETTER-006_IMG-20251111-WA0015.jpg
+ LETTER-006_IMG-20251111-WA0016.jpg
+ LETTER-006_IMG-20251111-WA0017.jpg
 
 ---
 
----
-
-## LETTER-006: I met an Apostle
+## LETTER-007: I met an Apostle
 
 **Email ID:** `19a9d587a19ae32f`
 **Letter Date:** `2025-11-19`
@@ -276,17 +298,15 @@ is:  ethan.s.nelson@missionary.org
 Got to meet an apostle this week. Elder Soares came to my mission and I got to hear him speak. Unfortunately for me, I am still learning Portuguese, so I wasn&#39;t able to understand everything, but it was still really cool. I also got to visit the Porto Alegre temple, because one of my companion&#39;s recent converts was going. It was pretty cool. One day while we were coming back from the church at night, we found a couch on the side of the road, so we took it home. Unfortunately we don&#39;t have enough space for it inside the house, and it&#39;s been raining a lot, but the couch was already beat up before that, and it&#39;s still a good place to sit at the end of the day when the night is cool, but the house is hot. My Portuguese continues to get better, and I&#39;ve gotten to the point where I can teach the lessons pretty good. We had to go to the hospital this week because Elder Wilson wasn&#39;t feeling good, and they made him get an ultrasound. I teased him the whole ride home about how he&#39;s going to be a father soon. Tried sugarcane juice this week, not sure if I like it. Elder Wilson says its usually better, and they add lime juice to it, so I think I just need to find another place to try it. Valeu, Elder Nelson If you would like to email me (and I love getting emails), my email address is: ethan.s.nelson@missionary.org
 
 Images:
- LETTER-006_20251111_194640.jpg
- LETTER-006_20251112_160758.jpg
- LETTER-006_20251113_133447.jpg
- LETTER-006_IMG-20251111-WA0026.jpg
- LETTER-006_IMG-20251116-WA0008.jpg
+ LETTER-007_20251111_194640.jpg
+ LETTER-007_20251112_160758.jpg
+ LETTER-007_20251113_133447.jpg
+ LETTER-007_IMG-20251111-WA0026.jpg
+ LETTER-007_IMG-20251116-WA0008.jpg
 
 ---
 
----
-
-## LETTER-007: Transfers!
+## LETTER-008: Transfers!
 
 **Email ID:** `19abd375094ca1bc`
 **Letter Date:** `2025-11-25`
@@ -318,17 +338,15 @@ Send me an email--ethan.s.nelson@missionary.org
 I&#39;m getting transferred this week! My new area is called Cinquentenário and it&#39;s in the city of Caxias do Sul. My new companion&#39;s name is Elder Cardoso. I don&#39;t know anything about him besides the fact that he is Hispanic and doesn&#39;t speak English, so this next transfer might be a little rough for both of us as we try to talk in our second language, but it also gives me a chance to practice my español. Besides that, nothing much of importance happened. I went to the temple with my baptism João and that was pretty fun. I also bought a cowboy hat because it&#39;s starting to get a little hot here. Unfortunately I am not able to do proselytizing work with a horse, but not for lack of trying to convince the mission President that we would have way more baptisms if some gáucho missionaries rode up on a horse. It&#39;s going to be sad saying goodbye to the açai place right across the street from my house, but I&#39;m hopeful that there will be one close to my house in Cinquentenário. Valeu, Elder Nelson Send me an email--ethan.s.nelson@missionary.org
 
 Images:
- LETTER-007_20251119_162841.jpg
- LETTER-007_IMG-20251115-WA0008.jpg
- LETTER-007_IMG-20251120-WA0016.jpg
- LETTER-007_IMG-20251124-WA0021.jpg
- LETTER-007_IMG-20251124-WA0024.jpg
+ LETTER-008_20251119_162841.jpg
+ LETTER-008_IMG-20251115-WA0008.jpg
+ LETTER-008_IMG-20251120-WA0016.jpg
+ LETTER-008_IMG-20251124-WA0021.jpg
+ LETTER-008_IMG-20251124-WA0024.jpg
 
 ---
 
----
-
-## LETTER-008: 3 Months!!
+## LETTER-009: 3 Months!!
 
 **Email ID:** `19ae47f502acb053`
 **Letter Date:** `2025-12-03`
@@ -362,19 +380,17 @@ came, another Elder Nelson
 Ola, Finally made it 3 months! Now all i gotta do is make it through the next 21! Things are going alright here, it&#39;s been a bit of a challenge with only speaking portuguese. I like my new companion, Elder Cardozo, he&#39;s from Uruguay and is a pretty chill dude. I&#39;m not enjoying this new area as much as I enjoy him though. There are a lot of hills here, and I was not prepared to come from Itacolomi with its one hill, to the dozens of hills I have to climb each hour, and a lot of them are pretty steep. It&#39;s also pretty hot here, (29 degrees celsius with a uv of 11) but that just means that I might actually have the chance to be more tan than Cade! My apartment here is a lot nicer than the house in Itacolomi, and for the first time in my 18 years of life, I have my own bathroom, and it&#39;s pretty nice (even if i have to lift the entire toilet lid to flush the toilet, it&#39;s still pretty nice). There&#39;s this one investigator here that I think likes me a little more than my companion, and I think he wants a little more friendlier relationship with me, which I do not. Besides all that, it&#39;s been tolerable here and I&#39;m hopeful that there won&#39;t be any more gay guys hitting on me this coming week! Valeu, Elder Nelson Pictures--multiple from my new area, group photo from when Elder Soares came, another Elder Nelson
 
 Images:
- LETTER-008_20251129_160916.jpg
- LETTER-008_20251202_142953.jpg
- LETTER-008_20251202_153453.jpg
- LETTER-008_20251202_154653.jpg
- LETTER-008_IMG-20251129-WA0008.jpg
- LETTER-008_IMG-20251201-WA0003.jpg
- LETTER-008_IMG-20251202-WA0008.jpg
+ LETTER-009_20251129_160916.jpg
+ LETTER-009_20251202_142953.jpg
+ LETTER-009_20251202_153453.jpg
+ LETTER-009_20251202_154653.jpg
+ LETTER-009_IMG-20251129-WA0008.jpg
+ LETTER-009_IMG-20251201-WA0003.jpg
+ LETTER-009_IMG-20251202-WA0008.jpg
 
 ---
 
----
-
-## LETTER-009: First Brazilian Funky Animal
+## LETTER-010: First Brazilian Funky Animal
 
 **Email ID:** `19b0841460c87dd0`
 **Letter Date:** `2025-12-10`
@@ -419,21 +435,19 @@ rust doth corrupt, and where thieves do not break through nor steal:
 Ola, Saw a weird looking porcupine this week. I&#39;m not sure exactly what it is, but Scarlett (my cousin) has informed me that it is called a Brazilian porcupine. Had 2 baptisms this week, which was nice. Lucky for me, I didn&#39;t have to baptize the guy that had a little more affection for me, and instead baptized this other guy. The only thing was this guy didn&#39;t know how to bend his legs, and my feeble attempts with my portuguese wasn&#39;t really making a difference. Luckily after 4 times, the bishop told him to bend his legs and I was able to baptize him. We gave a blessing to this lady that owns an Italian restaurant, and they want to feed us on Friday, so I&#39;m hoping that works out so I can eat Italian food. I&#39;m at the church right now in Bento Conçalves because we came to play futebol, and meet with the other missionaries in my zone,but a storm knocked the power out, so i&#39;m probably going to have a very dark wet walk back to the bus station to catch a bus back to Cinquentenário. I saw a Ferrari with a Santa Claus in it (or Papai Noel aqui) which I found odd because I don&#39;t think there are really a lot of people rich enough to buy a Ferrari. Valeu, Elder Nelson P.S My mom says i should include more spiritual things so here&#39;s a scripture to read if you want. Matthew 6:19-21 (or 3 Nephi 19-21) 19 ¶ Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: 20 But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: 21 For where your treasure is, there will your heart be also.
 
 Images:
- LETTER-009_20251203_190436.jpg
- LETTER-009_20251207_162701.jpg
- LETTER-009_20251209_170419.jpg
- LETTER-009_IMG-20251204-WA0011.jpg
- LETTER-009_IMG-20251207-WA0002.jpg
- LETTER-009_IMG-20251207-WA0003.jpg
- LETTER-009_IMG-20251208-WA0021.jpg
- LETTER-009_IMG-20251209-WA0009.jpg
- LETTER-009_IMG-20251209-WA0012.jpg
+ LETTER-010_20251203_190436.jpg
+ LETTER-010_20251207_162701.jpg
+ LETTER-010_20251209_170419.jpg
+ LETTER-010_IMG-20251204-WA0011.jpg
+ LETTER-010_IMG-20251207-WA0002.jpg
+ LETTER-010_IMG-20251207-WA0003.jpg
+ LETTER-010_IMG-20251208-WA0021.jpg
+ LETTER-010_IMG-20251209-WA0009.jpg
+ LETTER-010_IMG-20251209-WA0012.jpg
 
 ---
 
----
-
-## LETTER-010: Quase Christmas
+## LETTER-011: Quase Christmas
 
 **Email ID:** `19b2ca5e8a8e61e4`
 **Letter Date:** `2025-12-17`
@@ -475,17 +489,15 @@ Elder Nelson
 Ola, Did a division with Elder Turquin this week (a division is when you switch companions with another companionship and sometimes areas). He&#39;s from Argentina ( he lives 60km from the end of the world) and penguins are near his house (he showed me a picture). Was raining all day Wednesday and the temperature got down to 15 degrees celsius, and i could see my breath, and that day was not super fun, but we ended up at this old lady&#39;s house and she couldn&#39;t understand Cardozo (my companion) but could understand me, so that was a major ego boost. She also wanted to put up a picture of us in her living room, which was a double ego boost. Unfortunately when we came back with the picture, she wasn&#39;t home. I&#39;ll try again this week. Remembered that my Dad isn&#39;t here to control my spending habits, so I bought a lot of paçoca (peanut candy thing) and juice, and it has been worth every reale I spent on it. We had our ward Christmas party which was super fun, and then we had the leftovers for lunch at the church with the ward after sacrament on Sunday. The Italian food was pretty good, and we got invited back to the restaurant next Monday for their pasta buffet (a lot of restaurants here have buffets, or certain days where they are buffets-its great). I made a new friend, an English expatriate living here, and I&#39;m probably going to try to meet up with him next week so I can speak some more English. Met Papai Noel on the way back home, everyone was waiting for a parade, but unfortunately me and Cardozo had to be home before it started (we have to be home by 9, so i guess it started pretty late). Valeu, Elder Nelson
 
 Images:
- LETTER-010_20251212_185514.jpg
- LETTER-010_20251213_144329.jpg
- LETTER-010_20251214_200959.jpg
- LETTER-010_IMG-20251212-WA0004.jpg
- LETTER-010_IMG-20251212-WA0006.jpg
+ LETTER-011_20251212_185514.jpg
+ LETTER-011_20251213_144329.jpg
+ LETTER-011_20251214_200959.jpg
+ LETTER-011_IMG-20251212-WA0004.jpg
+ LETTER-011_IMG-20251212-WA0006.jpg
 
 ---
 
----
-
-## LETTER-011: Feliz Natal
+## LETTER-012: Feliz Natal
 
 **Email ID:** `19b4c4e82a9fddd1`
 **Letter Date:** `2025-12-23`
@@ -515,14 +527,12 @@ Elder Nelson
 Feliz Natal todo mundo, Hope you guys have something fun planned for Christmas. I will be outside all day in the rain, (supposed to rain all week) but at least it&#39;s better than the heat. Not much happened this week. I spent all my money on paçoca and Uber rides (I think my comp just doesn&#39;t like walking) so I&#39;m pobre again. We had a Zone Conference again this week, and it was a special one. We played games and had a talent show. My contribution to the talent show was that I did the Haka again with Elder Roberts. Got a Christmas card from a Brazilian child somewhere up north, and that was pretty nice. Looking forward to getting fat on Christmas and new years at some Irmãs house. Had a baptism on Sunday, and before the baptism we went to check on the font,and there was still water in the font, and we couldn&#39;t figure out why it wasn&#39;t draining so we got some buckets and started dumping the water in the toilet until my comp realized that the breaker wasn&#39;t turned on and that was why it wasn&#39;t draining, but he realized that after I was wet, so that was pretty fun. Deep in debt to the paçoca cartel, Elder Nelson
 
 Images:
- LETTER-011_20251222_150446.jpg
- LETTER-011_IMG-20251221-WA0013.jpg
+ LETTER-012_20251222_150446.jpg
+ LETTER-012_IMG-20251221-WA0013.jpg
 
 ---
 
----
-
-## LETTER-012: Feliz Ano Novo
+## LETTER-013: Feliz Ano Novo
 
 **Email ID:** `19b717f5905f3ea4`
 **Letter Date:** `2025-12-30`
@@ -552,17 +562,15 @@ Elder Nelson
 Olá, Hope everyone&#39;s Christmas went well. We got a box of candy and panettone from our ward, so me and Elder Cardozo have been eating pretty good. If you were wondering what Brazillians eat on Christmas, you are going to have to wait until next year or look it up, because both my Christmas Eve and Christmas dinner were with Argentinian familias (I did have lunch with a Brazilian family, but since I&#39;m in the south, we had a churrasco for lunch). I had tamales, which were pretty good. Saw a guy riding a horse this week and drinking a beer, without a shirt on which I think truly exemplifies what it means to be a Gaúcho,(this was also on a pretty busy road, for you that live in Virginia, think about Rolling road). Saw a funky looking lizard this week, and my companion told me that Capybaras are more common in some other areas, so I&#39;m hoping when transfers come, that is go to an area where i can see/eat Capybaras (there&#39;s a lot of Capybaras in Uruguay, and he says that they are delicious). I&#39;m supposed to eat dinner again with a Venezuelan family for New Years, so we will see what traditions they have for New Years. Somewhat jealous that my life isn&#39;t as carefree as the guy on the horse, Elder Nelson
 
 Images:
- LETTER-012_20251226_114043.jpg
- LETTER-012_20251226_114115.jpg
- LETTER-012_IMG-20251224-WA0017.jpg
- LETTER-012_IMG-20251224-WA0022.jpg
- LETTER-012_IMG-20251225-WA0001.jpg
+ LETTER-013_20251226_114043.jpg
+ LETTER-013_20251226_114115.jpg
+ LETTER-013_IMG-20251224-WA0017.jpg
+ LETTER-013_IMG-20251224-WA0022.jpg
+ LETTER-013_IMG-20251225-WA0001.jpg
 
 ---
 
----
-
-## LETTER-013: Transfers!
+## LETTER-014: Transfers!
 
 **Email ID:** `19b948e57554b1b7`
 **Letter Date:** `2026-01-06`
@@ -604,9 +612,7 @@ Images:
 
 ---
 
----
-
-## LETTER-014: The Bells are Ringing
+## LETTER-015: The Bells are Ringing
 
 **Email ID:** `19bbca76766c094e`
 **Letter Date:** `2026-01-14`
@@ -630,18 +636,30 @@ Elder Nelson
 Olá, Moved to a new area. I&#39;m in Carlos Barbosa, but our area extends to Garibaldi, so we work in both towns. Carlos Barbosa looks like a little European town, and there is a cathedral in the square with a bell tower in the center of town that I really like listening to as we walk around. There&#39;s also a steam train that goes in-between Carlos Barbosa and Garibaldi, so I have been very excited about that. A lot prettier here, lots of green hills surrounding the towns. Me and my companion (Elder Van Tassell) want to go fishing, so we are seeing if someone from the church will take us. We had a churrasco today in the church with some of the other Elders near us, and that was pretty fun. Valeu, Elder Nelson
 
 Images:
- LETTER-014_IMG-20260112-WA0014.jpg
- LETTER-014_IMG-20260112-WA0015.jpg
- LETTER-014_IMG-20260112-WA0021.jpg
- LETTER-014_IMG-20260112-WA0023.jpg
- LETTER-014_IMG-20260112-WA0024.jpg
- LETTER-014_Messenger_creation_8DF04DA3-4488-43D4-99E8-306C216DB999.jpeg
+ LETTER-015_IMG-20260112-WA0014.jpg
+ LETTER-015_IMG-20260112-WA0015.jpg
+ LETTER-015_IMG-20260112-WA0021.jpg
+ LETTER-015_IMG-20260112-WA0023.jpg
+ LETTER-015_IMG-20260112-WA0024.jpg
+ LETTER-015_Messenger_creation_8DF04DA3-4488-43D4-99E8-306C216DB999.jpeg
 
 ---
 
+## LETTER-016: Fwd: Pretty Boring Week
+
+**Email ID:** `19be1aef0164fb24`
+**Letter Date:** `2026-01-21`
+
+*This is Ethan's mom
+
+Images:
+ LETTER-016_20260113_193536.jpg
+ LETTER-016_20260115_192739.jpg
+ LETTER-016_20260119_212547.jpg
+
 ---
 
-## LETTER-015: Olá!
+## LETTER-017: Olá!
 
 **Email ID:** `19bff4d63e1048d8`
 **Letter Date:** `2026-01-27`
@@ -666,16 +684,12 @@ Elder Nelson
 Olá, A very not exciting week this week. Did a lot of walking in between Carlos Barbosa and Garibaldi because we found a lady there that we want to baptize. Played a lot of spikeball today with my zone. If any of you know of missionaries leaving soon, tell them to bring spikeball. It was really hot last week but luckily it&#39;s supposed to cool down later this week. It&#39;s my birthday on Wednesday, and usually we eat lunch with the members, but on Wednesday we don&#39;t have lunch, so we&#39;ll probably go to a buffet for lunch and then get açai afterwards, which i am looking forward to. Thank you for all the birthday emails--I was shocked at how many emails I got and loved hearing from everyone!! If any of you have questions about Brasil, I would love to answer them. Tchau, Elder Nelson
 
 Images:
- LETTER-015_20260119_212547_drive.jpg
- LETTER-015_IMG-20260124-WA0018.jpg
- LETTER-015_IMG-20260124-WA0018_drive.jpg
- LETTER-015_IMG-20260124-WA0018_drive.mp4
+ LETTER-017_20260119_212547.jpg
+ LETTER-017_IMG-20260124-WA0018.jpg
 
 ---
 
----
-
-## LETTER-016: My Comp got kidnapped!
+## LETTER-018: My Comp got kidnapped!
 
 **Email ID:** `19c2617d046f99fd`
 **Letter Date:** `2026-02-03`
@@ -706,18 +720,17 @@ Elder Nelson
 Olá, We were walking home Saturday night from Garibaldi to Carlos Barbosa (it&#39;s a long walk, about 2 hours from center to center) when a car pulled up alongside us and a lady offered us a ride. My companion, Elder Van Tassell sat in the front, and I was getting in the back, but the back was pretty messy, so I was moving some stuff when the lady started driving away, and I was not in the car. So I started sprinting after the car, but I was not able to catch up, so I was left on the side of a highway without my companion in the dark. I started walking toward Carlos Barbosa, hoping that they would eventually figure out that they left me. Luckily a member passed me and let me use their phone to call Elder Van Tassell (we each have separate phones but use the same plan, and Van tassell had the chip). Luckily for me, they weren&#39;t too far away and the member gave me a ride to Van Tassell and then we just walked home. I also went to a grape plant where they make juice and wine. Tried the juice, it was pretty good. My birthday went well, thank you to all of those that sent me an email. Tchau, Elder Nelson
 
 Images:
- LETTER-016_20260119_212547.jpg
- LETTER-016_20260202_085035.jpg
- LETTER-016_20260202_161534.jpg
- LETTER-016_IMG-20260201-WA0013.jpg
- LETTER-016_IMG-20260202-WA0000.jpg
- LETTER-016_IMG-20260202-WA0010.jpg
+ LETTER-018_20260119_212547.jpg
+ LETTER-018_20260202_085035.jpg
+ LETTER-018_20260202_161534.jpg
+ LETTER-018_IMG-20260124-WA0018.jpg
+ LETTER-018_IMG-20260201-WA0013.jpg
+ LETTER-018_IMG-20260202-WA0000.jpg
+ LETTER-018_IMG-20260202-WA0010.jpg
 
 ---
 
----
-
-## LETTER-017: Harley Day
+## LETTER-019: Harley Day
 
 **Email ID:** `19c4ce95e64436ae`
 **Letter Date:** `2026-02-11`
@@ -752,17 +765,10 @@ Elder Nelson
 Olá, There was a Harley (Davidson) day in Carlos Barbosa this week. It was pretty cool, but we weren&#39;t able to go because we had to work in Garibaldi. It was really cool seeing the Harley&#39;s and listening to pearl jam, but they camped right below our apartment, so it made it pretty hard to sleep. Had another baptism this week, it was pretty great. It&#39;s an older lady that reminds me a lot of my grandma (she is very friendly-and talks a loooot). We also had a Zone Conference this week, and it was fun to see my friends again. I hung out with Elder Roberts a lot. I made brownies for the baptism and everyone said that they were the best that they had ever had. There are a lot of Jeep renegades and explorers here so we have started counting them. 0.5 points for a renegado and 1 point for explorers. So far the highest score we have gotten for one day has been 67.5 Tchau, Elder Nelson 20260206_190809.mp4 IMG-20260208-WA0055.jpg IMG-20260208-WA0061.jpg IMG-20260208-WA0062.jpg IMG-20260208-WA0063.jpg
 
 Images:
- LETTER-017_DSCN0199.JPG
- LETTER-017_IMG-20260208-WA0055.jpg
- LETTER-017_IMG-20260208-WA0061.jpg
- LETTER-017_IMG-20260208-WA0062.jpg
- LETTER-017_IMG-20260208-WA0063.jpg
 
 ---
 
----
-
-## LETTER-018: Beach Bum
+## LETTER-020: Beach Bum
 
 **Email ID:** `19c70b64f93354e5`
 **Letter Date:** `2026-02-18`
@@ -787,13 +793,11 @@ Elder Nelson
 Olá, It&#39;s transfer day.Im going to Capão da Canoa, which is the beach. My new companion is going to be Elder Lima, who arrived on the mission at the same time as me, but i&#39;m also going to be living with another dupla of Elders. This time, I will not be making the mistake of unpacking (because I keep getting transferred and it&#39;s a pain to repack everytime!) To all of you that wonder what Carnaval looks like, I am also wondering. There was one little thing in Garibaldi, but it was more like a farmers market than what I expected Carnaval to look like. Besides that, nothing very exciting happened this week. I&#39;m going to miss the grape juice, but I&#39;m sure there will be good stuff at the beach. Tchau, Elder Nelson
 
 Images:
- LETTER-018_IMG-20260129-WA0027.jpg
+ LETTER-020_IMG-20260129-WA0027.jpg
 
 ---
 
----
-
-## LETTER-019: Baby Tijolos
+## LETTER-021: Baby Tijolos
 
 **Email ID:** `19c94e26485421cc`
 **Letter Date:** `2026-02-25`
@@ -832,18 +836,16 @@ Elder Nelson
 Olá, New area is pretty cool. It&#39;s perfectly flat which is great, but it means my legs are probably going to get a little smaller. A lot more people own horses here than in Carlos Barbosa/Garibaldi, which I think is weird, because Carlos Barbosa/Garibaldi was a small town surrounded by nature, and i&#39;m in a city now. Anyways, on Tuesday we were talking to this lady and her granddaughter. We asked them if in the future they would ever be interested in being baptized, and they responded in the affirmative, but then the grandma started telling us a story about why we need to baptize people. Apparently when she was little, her mom performed a home abortion and flushed the fetus down the toilet, but the dad was working on the house and needed to get into the tank for some reason, so he found the decaying fetus. And as any good father would have done, he decided to add his unborn child into the walls of his house. The grandma said that they could hear the fetus crying all the time, and one day, the grandma of the grandma, came to the house and was done with the crying, so she decided to baptize the baby. She baptized the baby with holy water and it stopped crying. Me and Elder Lima were very weirded out, and we tried to go back to them a couple of times this week, but unfortunately they seem to be avoiding us. Also, me and Elder Lima figured out that our dad&#39;s knew each other while they were missionaries. They arrived together on the mission. Also, send me an email--I love to hear what is going on with everyone and I promise to email back!! Tchau, Elder Nelson
 
 Images:
- LETTER-019_20260223_220420.jpg
- LETTER-019_20260223_220429.jpg
- LETTER-019_IMG-20260217-WA0004.jpg
- LETTER-019_IMG-20260218-WA0003.jpg
- LETTER-019_IMG-20260221-WA0012.jpg
- LETTER-019_IMG-20260223-WA0002.jpg
+ LETTER-021_20260223_220420.jpg
+ LETTER-021_20260223_220429.jpg
+ LETTER-021_IMG-20260217-WA0004.jpg
+ LETTER-021_IMG-20260218-WA0003.jpg
+ LETTER-021_IMG-20260221-WA0012.jpg
+ LETTER-021_IMG-20260223-WA0002.jpg
 
 ---
 
----
-
-## LETTER-020: 6 meses
+## LETTER-022: 6 meses
 
 **Email ID:** `19cb9072e12f1eac`
 **Letter Date:** `2026-03-04`
@@ -871,22 +873,20 @@ Elder Nelson
 Olá, Hit 6 months yesterday (March 1st). Quarter of my mission is done, only 18 left! Nothing really interesting happened this week. We watched the tabernacle choir sing in São Paulo (We watched in the chapel in Tramandai). It was pretty cool, there was a famous Brazilian singer (don&#39;t remember her name) that was really good. Last week, I forgot to mention something interesting that happened. Last week, i was on a division with Elder Skidmore and we were teaching a family when the lights went out. Obviously, we did what anyone would do, and turned on our phone flashlights and kept teaching. This happened because it was raining a loooot. I do not think I&#39;ve seen bigger puddles in my life, they were about 20 feet across, and about 1-2 feet deep, and my feet were soaked by the end of the day. We had our zone p-day today, which was really fun because we played volleyball and ate dinner at a rodízio. Tchau, Elder Nelson
 
 Images:
- LETTER-020_20260301_145402.jpg
- LETTER-020_20260303_135341.jpg
- LETTER-020_IMG-20260224-WA0016.jpg
- LETTER-020_IMG-20260227-WA0024.jpg
- LETTER-020_IMG-20260301-WA0020.jpg
- LETTER-020_IMG-20260302-WA0020.jpg
- LETTER-020_IMG-20260302-WA0023.jpg
- LETTER-020_motion_photo_1651916359536168208.jpg
- LETTER-020_motion_photo_7371579660261592649.jpg
- LETTER-020_motion_photo_8421811990984035863.jpg
+ LETTER-022_20260301_145402.jpg
+ LETTER-022_20260303_135341.jpg
+ LETTER-022_IMG-20260224-WA0016.jpg
+ LETTER-022_IMG-20260227-WA0024.jpg
+ LETTER-022_IMG-20260301-WA0020.jpg
+ LETTER-022_IMG-20260302-WA0020.jpg
+ LETTER-022_IMG-20260302-WA0023.jpg
+ LETTER-022_motion_photo_1651916359536168208.jpg
+ LETTER-022_motion_photo_7371579660261592649.jpg
+ LETTER-022_motion_photo_8421811990984035863.jpg
 
 ---
 
----
-
-## LETTER-021: Transferência emergência
+## LETTER-023: Transferência emergência
 
 **Email ID:** `19cd97950bb87ab3`
 **Letter Date:** `2026-03-10`
@@ -920,23 +920,21 @@ Elder Nelson
 Olá, Got emergency transferred. That means I got moved areas and I&#39;m now in Pinhal (still on the beach,just further south) with Elder Yallico. Elder Yallico&#39;s former comp hurt his leg and had to go home, which is why I&#39;m here. Elder Yallico is from Peru, and he&#39;s pretty funny. Pinhal is a lot more humble than Capão da Canoa, so my lunches have been suffering a little bit, but at least I&#39;m a little closer to the beach. We had lunch this week with this one lady that had a bunch of creepy lifelike dolls, so of course I took advantage of the situation and took pictures with them. I&#39;m also in the process of marrying a couple right now, which i do not recommend, it&#39;s expensive and time consuming. Now I understand why no one here is legally married. I also have to teach an English class on Friday, so if anyone has any good advice, I would appreciate it. Also, there is this couple that is going to be here is Pinhal for the next couple of weeks that were in my first area (Itacolomi) which is great, and i was very excited to see them again and show them how much my portuguese has improved. Praying to survive the week without having to help marry more people! Ciao, Elder Nelson
 
 Images:
- LETTER-021_IMG-20260306-WA0009.jpg
- LETTER-021_IMG-20260306-WA0059.jpg
- LETTER-021_IMG-20260306-WA0084.jpg
- LETTER-021_IMG-20260306-WA0088.jpg
- LETTER-021_IMG-20260306-WA0090.jpg
- LETTER-021_IMG-20260308-WA0006.jpg
- LETTER-021_IMG-20260309-WA0032.jpg
- LETTER-021_IMG-20260309-WA0044.jpg
- LETTER-021_IMG-20260309-WA0045.jpg
- LETTER-021_IMG-20260310-WA0005.jpg
- LETTER-021_IMG-20260310-WA0006.jpg
+ LETTER-023_IMG-20260306-WA0009.jpg
+ LETTER-023_IMG-20260306-WA0059.jpg
+ LETTER-023_IMG-20260306-WA0084.jpg
+ LETTER-023_IMG-20260306-WA0088.jpg
+ LETTER-023_IMG-20260306-WA0090.jpg
+ LETTER-023_IMG-20260308-WA0006.jpg
+ LETTER-023_IMG-20260309-WA0032.jpg
+ LETTER-023_IMG-20260309-WA0044.jpg
+ LETTER-023_IMG-20260309-WA0045.jpg
+ LETTER-023_IMG-20260310-WA0005.jpg
+ LETTER-023_IMG-20260310-WA0006.jpg
 
 ---
 
----
-
-## LETTER-022: Gayzão
+## LETTER-024: Gayzão
 
 **Email ID:** `19cfd9717ad295d0`
 **Letter Date:** `2026-03-17`
@@ -976,15 +974,13 @@ Elder Nelson
 Olá, Not a very interesting week this week. The marriage is continuing to be really slow, it&#39;s looking like I won&#39;t be here when they finally get married. It&#39;s been really hot this week, and all the news shows have been calling it a calorão, which if you put it into Google translate, it will say that its intense heat which i think is funny, because when you add a ão to a word you just make it bigger. An example would be altão ( alto is tall, so altão is something you would use for someone that is taller than the average, like me) or something that my comp says a lot is that I&#39;m a gayzão which means super gay, which I think is hilarious, and will definitely be a part of my vocabulary. On the inverse, you add inho if it&#39;s smaller, like gordinho (gordo is fat). Used in a sentence you could say, aquele gordão/gordinho la, which means that about to die of diabetes/slightly bigger guy there. I find it interesting that a lot of Brazillians will not use the &quot;normal&quot; and instead add ão or inho. Anyways this week was pretty boring, the English class went well, and Elder Yallico almost got taken out by a horse because he likes petting the horses, and one turned around really fast and almost kicked him. I also got to do my first service project, which my job was pounding holes into the bricks, with a hammer and chisel which was pretty fun.I got this sick cuia (special cup) from a member, i&#39;m cleaning it today so its not ready for drinking yet, but I&#39;ll take a picture for next week of me enjoying my chimarrão during the (hopefully) friozinho. Tchau, Elder Nelson
 
 Images:
- LETTER-022_20260316_134622.jpg
- LETTER-022_20260316_193823.jpg
- LETTER-022_IMG-20260314-WA0014.jpg
+ LETTER-024_20260316_134622.jpg
+ LETTER-024_20260316_193823.jpg
+ LETTER-024_IMG-20260314-WA0014.jpg
 
 ---
 
----
-
-## LETTER-023: Hospital Vagabundos
+## LETTER-025: Hospital Vagabundos
 
 **Email ID:** `19d21d233a61a6f2`
 **Letter Date:** `2026-03-24`
@@ -1025,22 +1021,20 @@ Elder Nelson
 Olá, Been an interesting week. We had a Zone Conference earlier this week which was nice because I got to see all my friends that I haven&#39;t seen in a while. Then I did a division in Capão da Canoa, which was great cause I got to see some members that I liked when I was there. On Friday, my comp decided to start dying, so we had to go to the hospital (more of a clinic really). He was complaining about pain in his liver and his back, but wasn&#39;t really doing that bad during the day, but when we got home, the pain got a lot worse, so I had to carry him to an uber and go to the hospital. Once there, they gave him morphine and just let him sleep, so we&#39;ll see what happens this week. We ended up being at the hospital for 8 hours (10p to 6a) and I hit the milestone of going without sleep,food, and water for 24 hours (woke up at 5:30 the previous day to catch a bus, and after the hospital slept until midday, which is when I had last eaten and drank). Also, we were teaching a family this week, and we had asked them to read the book of mormon, and they hadn&#39;t yet, so I jokingly called them vagabundos, which i thought meant what Google translate had told me, which it means bums, which is a word i used a lot in English. Unluckily for me, Google translate lied to me. In Portuguese it is a lot stronger, and for women it has a different connotation, one which I cannot repeat on a missionary email! All turned out well in the end, they thought it was hilarious, (they kept calling each other vagabundos after this, and now I&#39;m in a group chat with them titled vagabundos) and I was spared from being beat up. In the future, I will only call people who deserve it vagabundos. Tchau, Elder Nelson
 
 Images:
- LETTER-023_20260320_224158.jpg
- LETTER-023_20260321_141613.jpg
- LETTER-023_IMG-20260320-WA0023.jpg
- LETTER-023_IMG-20260320-WA0026.jpg
- LETTER-023_IMG-20260320-WA0028.jpg
- LETTER-023_IMG-20260320-WA0030.jpg
- LETTER-023_IMG-20260322-WA0029.jpg
- LETTER-023_IMG-20260324-WA0011.jpg
- LETTER-023_IMG-20260324-WA0015.jpg
- LETTER-023_IMG-20260324-WA0017.jpg
+ LETTER-025_20260320_224158.jpg
+ LETTER-025_20260321_141613.jpg
+ LETTER-025_IMG-20260320-WA0023.jpg
+ LETTER-025_IMG-20260320-WA0026.jpg
+ LETTER-025_IMG-20260320-WA0028.jpg
+ LETTER-025_IMG-20260320-WA0030.jpg
+ LETTER-025_IMG-20260322-WA0029.jpg
+ LETTER-025_IMG-20260324-WA0011.jpg
+ LETTER-025_IMG-20260324-WA0015.jpg
+ LETTER-025_IMG-20260324-WA0017.jpg
 
 ---
 
----
-
-## LETTER-024: Beach Bum
+## LETTER-026: Beach Bum
 
 **Email ID:** `19d4654edbe92a69`
 **Letter Date:** `2026-03-31`
@@ -1058,12 +1052,13 @@ Elder Nelson
 Sent from my iPad
 
 Images:
+ LETTER-026_20260326_202953.jpg
+ LETTER-026_image5.jpeg
+ LETTER-026_image6.jpeg
 
 ---
 
----
-
-## LETTER-025: Rambo
+## LETTER-027: Rambo
 
 **Email ID:** `19d697da3ea98b8e`
 **Letter Date:** `2026-04-07`
@@ -1104,15 +1099,13 @@ Elder Nelson
 Olá, Not a very exciting week this week. I think most of the excitement left with Elder Yallico. Elder Pereira (my new comp) is cool, but is definitely very ready to go home. Every morning when we wake up he asks me, &quot;Nelson, do you know how many days I have left?&quot; (I do now, 37). There&#39;s a new Elder (just arrived) in the city over from me (they created a new area and they stole half of the area) and it&#39;s been a little weird realizing that I was like this Elder 4 1/2 months ago. Elder Pereira also wants to go to the beach(against the rules), and since I&#39;m a great companion, I think unfortunately, I&#39;ll have to follow him 😉. We talked to this old lady that was super drunk and she said I was a tall,bonitinho alemão (here in Rio Grande do Sul, if you are tall and white, you are alemão) and need to marry a gaúcha which was a very welcome ego boost. She told Pereira that she had an uncle like him, where when it was dark, you could only see his teeth, so I think that Elder Pereira should feel complimented as well, for his excellent dental hygiene. Elder Pereira was in the Brazilian military before the mission, so he&#39;s been telling me his war stories. He told me that during an operation in Paraguay that a bullet ricocheted and hit him in the back, and didn&#39;t even notice because he was so high on adrenaline. So for the very least, my mom can rest easy that I won&#39;t get robbed this transfer. Also, for any of you who were wondering, Easter (Páscoa) is pretty similar here. I unfortunately did not get any chocolate eggs this year, but I got fish churrasco on Friday, which was pretty good, and also the first and likely last time I&#39;ll have fish until next Good Friday. Hoping that a slightly younger gaúcha calls me bonitinho, Elder Nelson
 
 Images:
- LETTER-025_20260331_181438.jpg
- LETTER-025_20260403_170216.jpg
- LETTER-025_IMG-20260401-WA0011.jpg
+ LETTER-027_20260331_181438.jpg
+ LETTER-027_20260403_170216.jpg
+ LETTER-027_IMG-20260401-WA0011.jpg
 
 ---
 
----
-
-## LETTER-026: Mamãe
+## LETTER-028: Mamãe
 
 **Email ID:** `19d8de885408dd96`
 **Letter Date:** `2026-04-14`
@@ -1147,23 +1140,21 @@ only has 27 days left.
 Olá, Not too much happened this week. We had a baptism on Sunday, and it was my Brazilian mom (nickname she gave herself). She&#39;s been making sure that I have been eating more than a meal a day and that my meals are occasionally healthy. She also tried to make Yallico go to the hospital when he got stung by a bee, (he was bee-ing pretty dramatic). She was the first baptism this area has had since December, so me and Pereira were pretty stoked. I think it&#39;s pretty funny, the other Elders in Cidreira (town over from us, was part of my area last transfer), have a dog (they named it pretinha, or little black girl-it sounds really racist in english but isn&#39;t in portuguese) following them around everywhere. One of the Elders is pretty annoyed by it, but I think it&#39;s pretty funny. I, unfortunately, did not have anyone else besides Pereira tell me that I was handsome or tall this week, so my self confidence has dropped a little. Tchau, Elder Nelson P.S Just in case any of you were curious, Pereira has just reminded me that he only has 27 days left.
 
 Images:
- LETTER-026_20260408_180934.jpg
- LETTER-026_20260409_201153.jpg
- LETTER-026_20260411_181551.jpg
- LETTER-026_20260412_063152.jpg
- LETTER-026_20260412_115707.jpg
- LETTER-026_IMG-20260408-WA0338.jpg
- LETTER-026_IMG-20260412-WA0058.jpg
- LETTER-026_IMG-20260412-WA0285.jpg
- LETTER-026_IMG-20260412-WA0287.jpg
- LETTER-026_IMG-20260413-WA0009.jpg
- LETTER-026_IMG-20260414-WA0000.jpg
+ LETTER-028_20260408_180934.jpg
+ LETTER-028_20260409_201153.jpg
+ LETTER-028_20260411_181551.jpg
+ LETTER-028_20260412_063152.jpg
+ LETTER-028_20260412_115707.jpg
+ LETTER-028_IMG-20260408-WA0338.jpg
+ LETTER-028_IMG-20260412-WA0058.jpg
+ LETTER-028_IMG-20260412-WA0285.jpg
+ LETTER-028_IMG-20260412-WA0287.jpg
+ LETTER-028_IMG-20260413-WA0009.jpg
+ LETTER-028_IMG-20260414-WA0000.jpg
 
 ---
 
----
-
-## LETTER-027: Vagabundos abençoados
+## LETTER-029: Vagabundos abençoados
 
 **Email ID:** `19db25c28b1f7abd`
 **Letter Date:** `2026-04-21`
@@ -1195,18 +1186,16 @@ Elder Nelson
 Olà, Another slightly less interesting week. I baptized two members of the family that I called vagabundos, which I guess means that I should call people vagabundos more! We went sandboarding and had a churrasco today (with the same family) . It was pretty cool. I&#39;m going to go to Porto Alegre tomorrow to do some more citizenship stuff, so hopefully soon I won&#39;t be an illegal immigrant. I did a division in Capão da Canoa with Elder Slade, and their power went out, (still not back on, i think the power bill hasn&#39;t gotten paid yet) which was not fun, when I went to take a shower and it was freezing cold. I also did a division with Elder Ramos (the new elder) . It was pretty fun, there were a lot of practical jokes that I played on him. Ex: if you like lunch, you need to tell the irmã &quot;Essa almoço foi uma porcaria&quot; (porcaria-naughty no-no word you never say to the irmãs if you want lunch again). It was lots of fun, and luckily, the irmãs forgave him for saying that heinous phrase and are still giving us lunch. Tchau, Elder Nelson
 
 Images:
- LETTER-027_20260420_173325.jpg
- LETTER-027_20260420_173644.jpg
- LETTER-027_20260420_173927.jpg
- LETTER-027_IMG-20260419-WA0129.jpg
- LETTER-027_IMG-20260419-WA0133.jpg
- LETTER-027_IMG-20260419-WA0137.jpg
+ LETTER-029_20260420_173325.jpg
+ LETTER-029_20260420_173644.jpg
+ LETTER-029_20260420_173927.jpg
+ LETTER-029_IMG-20260419-WA0129.jpg
+ LETTER-029_IMG-20260419-WA0133.jpg
+ LETTER-029_IMG-20260419-WA0137.jpg
 
 ---
 
----
-
-## LETTER-028: Friozinho
+## LETTER-030: Friozinho
 
 **Email ID:** `19dd61c2edd294c3`
 **Letter Date:** `2026-04-28`
@@ -1237,17 +1226,15 @@ Elder Nelson
 Olá, Starting to get cold here. It was 11°C (about 50F). when I woke up this morning, and right now it&#39;s 19°C (66F). Went to Porto Alegre to do some citizenship stuff this week, but the day we went was a holiday and the police station was closed. (Tiradentes day, his name literally means toothpuller, really interesting guy, look him up). We ended up just eating lunch in the mall and then went and got milkshakes from McDonald&#39;s because Pereira wanted one. It was a nice minivacation from the hustle and bustle of this extremely busy beach town. Besides that, I didn&#39;t do too much this week. I helped a member cut his grass (with a facão-big knife, really just a machete) which made me feel pretty cool. Simone made a comic of me, it has Pereira walking away from her house and talking about buying a cocainha( if you remembered one of my earlier emails, i explained that Brazilians like to add inho or ão to things, prime example being cocainha (coca (coke)+inha). I fell on the grass (it was wet and the soles on my shoes are pretty worn down). She made another funny comic. Would love to hear from everyone, so send me emails! Tchau, Elder Nelson
 
 Images:
- LETTER-028_20260421_141255.jpg
- LETTER-028_IMG-20260424-WA0097.jpg
- LETTER-028_IMG-20260424-WA0106.jpg
- LETTER-028_IMG-20260427-WA0060.jpg
- LETTER-028_IMG-20260428-WA0065.jpg
+ LETTER-030_20260421_141255.jpg
+ LETTER-030_IMG-20260424-WA0097.jpg
+ LETTER-030_IMG-20260424-WA0106.jpg
+ LETTER-030_IMG-20260427-WA0060.jpg
+ LETTER-030_IMG-20260428-WA0065.jpg
 
 ---
 
----
-
-## LETTER-029: Heavenly Hotel
+## LETTER-031: Heavenly Hotel
 
 **Email ID:** `19dfa9af2dcc754b`
 **Letter Date:** `2026-05-05`
@@ -1281,12 +1268,19 @@ Elder Nelson
 Olá Pretty interesting week this week. We went to Porto Alegre this week for Zone Conference and we got to stay in a hotel. It was probably my favorite day on the mission, because the hotel room was super nice (there was even breakfast the next day) and Pereira bought McDonalds for us. It was a lot of fun seeing some of my friends from other zones, but I also had to get a flu (gripe) shot, but luckily I didn&#39;t get sick. Unfortunately when we got back, we didn&#39;t have power because the Elders before me had not paid the power bill since January, so me and Pereira had a romantic candlelit pizza dinner (the pizza fell through the oven rack, so it was a little messy, but romantic still). I&#39;ve had to break out the sweater this week, it was a little cold. I&#39;m not sure how I went from wearing shorts when it was snowing when I lived in Virginia to being cold here when it drops below 70 degrees. I also have been spending all my money on claw machines, but at least I have Kenny from South Park now. It&#39;s Zone P-day today so we are at a rich member&#39;s house in Capão and we are doing churrasco. I got to prepare the chicken hearts which was pretty dope, definitely one of my favorite things about churrasco. Tchau, Elder Nelson
 
 Images:
+ LETTER-031_20260428_133328.jpg
+ LETTER-031_20260429_160015.jpg
+ LETTER-031_20260430_141609.jpg
+ LETTER-031_20260430_184552.jpg
+ LETTER-031_20260501_175959.jpg
+ LETTER-031_IMG-20260503-WA0005.jpg
+ LETTER-031_IMG-20260504-WA0015.jpg
+ LETTER-031_IMG-20260504-WA0036.jpg
+ LETTER-031_IMG-20260504-WA0037.jpg
 
 ---
 
----
-
-## LETTER-030: Single Digits
+## LETTER-032: Single Digits
 
 **Email ID:** `19e1e537ba3e2bda`
 **Letter Date:** `2026-05-12`
@@ -1318,14 +1312,12 @@ Elder Nelson
 Olá, Currently dying from cold exposure. I swear I saw icicles when I went to take a shower this morning. It was 9°C (48 F) this morning and our house only has a heater in the study room, which is the room I am in the least amount of time. This week was pretty boring. I was on a division with Elder Slade in Capão da Canoa for the majority of the week, and when I came back, I went into a division with Elder Ramos. Unfortunately neither of those divisions had email worthy shenanigans. I said goodbye to Pereira yesterday (very sad, lots of tears on his part, I&#39;m too macho to cry). He is currently sending me pictures of him hanging out in the nice warm hotel, so I&#39;m at least glad he&#39;s not too bummed out. It was transfers today and I&#39;m staying in Pinhal for a third transfer, and I&#39;ll be with Elder Máximo. It seems like no one knows anything about him, so hopefully he turns out to be cool. Hopefully something interesting happens this week. Tchau, Elder Nelson
 
 Images:
- LETTER-030_20260508_174833.jpg
- LETTER-030_20260511_201858.jpg
+ LETTER-032_20260508_174833.jpg
+ LETTER-032_20260511_201858.jpg
 
 ---
 
----
-
-## LETTER-031: Na Mar
+## LETTER-033: Na Mar
 
 **Email ID:** `19e424b34568c0de`
 **Letter Date:** `2026-05-19`
@@ -1360,19 +1352,17 @@ Elder Nelson
 Olá, Another somewhat interesting week. My companion is cool, he&#39;s from Pernambuco which is northern Brasil. I think he sounds like a southern pastor when he teaches. This is the first time he&#39;s ever seen the sea, so we spend a lot of time looking at the water. He also gets cold super easily and wears thermal underwear, a coat, gloves and a hat everyday, which I think is pretty funny given the fact that this week the average temperature throughout the day was 18°C (64F), but i can&#39;t judge him too much because I caught gripe (a cold - I&#39;m fine now) and he did not. I might have caught the cold because the room where I sleep in has a baseball sized hole leading to the outside and a giant window that doesn&#39;t close super great, but at least the gaps have been plugged with plastic grocery bags. We baptized a guy this week in the sea (I say we, but it was a member and we were standing on the road because we can&#39;t go on the beach). It was pretty cool. Besides that, nothing really happened this week. The spiritual thought for this week is something that was written on the side of my box of tea (I&#39;ve gotten really into tea, it&#39;s pretty good) and it says &quot;Deus sem você, é Deus! Você, sem Deus é nada!&quot; (&quot;God without you, is God! You without God are nothing!&quot;) Which I think is probably the most philosophically enlightening phrase I have ever seen written on the side of a box of tea!! Tchau, Elder Nelson
 
 Images:
- LETTER-031_20260516_132623.jpg
- LETTER-031_20260516_152754.jpg
- LETTER-031_20260516_200046.jpg
- LETTER-031_IMG-20260516-WA0041.jpg
- LETTER-031_IMG-20260516-WA0053.jpg
- LETTER-031_IMG-20260516-WA0069.jpg
- LETTER-031_IMG-20260516-WA0071.jpg
+ LETTER-033_20260516_132623.jpg
+ LETTER-033_20260516_152754.jpg
+ LETTER-033_20260516_200046.jpg
+ LETTER-033_IMG-20260516-WA0041.jpg
+ LETTER-033_IMG-20260516-WA0053.jpg
+ LETTER-033_IMG-20260516-WA0069.jpg
+ LETTER-033_IMG-20260516-WA0071.jpg
 
 ---
 
----
-
-## LETTER-032: Fogão
+## LETTER-034: Fogão
 
 **Email ID:** `19e65113b17282f7`
 **Letter Date:** `2026-05-26`
@@ -1404,25 +1394,16 @@ Elder Nelson
 Ola, Another week down. Not a lot happened this week. I had to give my first talk in Portuguese, and it had to be 15 minutes long, so I was not super excited about it. Luckily for me, it went alright (not for Máximo, he had to give a talk as well, but he stayed up until 1 Sunday morning writing his). We had a baptism on Saturday (it was actually for Cidreira, but that used to be my area, and the person baptized was someone I taught). Today for p-day we went to a lake and built a fire to cook lunch (tin foil dinners) and s&#39;mores (i think it&#39;s pretty funny, the marshmallows here for s&#39;mores are &quot;American style marshmallows&quot;). This week we have Zone Conference, so I&#39;m pretty excited to stay in the hotel again. Máximo is still dying of hypothermia, but at least now we have a heater in our bedroom. Hopefully this next week ends up being a little more interesting. Tchau, Elder Nelson
 
 Images:
- LETTER-032_20251025_184659.jpg
- LETTER-032_20260326_202953.jpg
- LETTER-032_20260428_133328.jpg
- LETTER-032_20260429_160015.jpg
- LETTER-032_20260430_141609.jpg
- LETTER-032_20260430_184552.jpg
- LETTER-032_20260501_175959.jpg
- LETTER-032_IMG-20260503-WA0005.jpg
- LETTER-032_IMG-20260504-WA0015.jpg
- LETTER-032_IMG-20260504-WA0036.jpg
- LETTER-032_IMG-20260504-WA0037.jpg
- LETTER-032_image5.jpeg
- LETTER-032_image6.jpeg
+ LETTER-034_20260520_200136.jpg
+ LETTER-034_20260521_202051.jpg
+ LETTER-034_20260525_132105.jpg
+ LETTER-034_20260525_151348.jpg
+ LETTER-034_IMG-20260521-WA0068.jpg
+ LETTER-034_IMG-20260524-WA0027.jpg
 
 ---
 
----
-
-## LETTER-033: 9 Meses
+## LETTER-035: 9 Meses
 
 **Email ID:** `19e857ce90e362b0`
 **Letter Date:** `2026-06-01`
@@ -1451,19 +1432,17 @@ Elder Nelson
 Olá, I hit 9 months today. This last week was pretty interesting. We went to Porto Alegre for Zone Conference and got to stay in a hotel again (the hotel was sadly less fancy, but they still had breakfast). It was really cool, I got to see my Papai Elder Wilson again, and he gave me a tie. I also saw my irmão Elder Nelson, and two of my comps (Elder Van Tassell and Yallico). It was really cool to see them again. I got a pair of shoes from a member (mine are starting to die a little) and they are pretty nice. The only bad thing is that pretty much the moment I put them on, the sole became detached from the right shoe, so the entire walk home, it was making a very loud slapping sound, and we got some looks from people that I was passing. Today was zone pday, and we went to play soccer and now we are going to have a churrasco. Tchau, Elder Nelson
 
 Images:
- LETTER-033_20260526_200609.jpg
- LETTER-033_20260527_130135.jpg
- LETTER-033_20260527_130527.jpg
- LETTER-033_20260529_082257.jpg
- LETTER-033_IMG-20260601-WA0033.jpg
- LETTER-033_IMG-20260601-WA0034.jpg
- LETTER-033_da68f7c6-7a67-4bef-b9bd-318d37c1a57f-copied-media~2.jpg
+ LETTER-035_20260526_200609.jpg
+ LETTER-035_20260527_130135.jpg
+ LETTER-035_20260527_130527.jpg
+ LETTER-035_20260529_082257.jpg
+ LETTER-035_IMG-20260601-WA0033.jpg
+ LETTER-035_IMG-20260601-WA0034.jpg
+ LETTER-035_da68f7c6-7a67-4bef-b9bd-318d37c1a57f-copied-media~2.jpg
 
 ---
 
----
-
-## LETTER-034: Man of Little Words
+## LETTER-036: Man of Little Words
 
 **Email ID:** `19eb17359b6391b2`
 **Letter Date:** `2026-06-10`
@@ -1489,16 +1468,13 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-034_20260602_155121.jpg
- LETTER-034_IMG-20260603-WA0016.jpg
- LETTER-034_IMG-20260609-WA0016.jpg
-
-
----
+ LETTER-036_20260602_155121.jpg
+ LETTER-036_IMG-20260603-WA0016.jpg
+ LETTER-036_IMG-20260609-WA0016.jpg
 
 ---
 
-## LETTER-035: Copa do mundo
+## LETTER-037: Copa do mundo
 
 **Email ID:** `19ed2073664f9901`
 **Letter Date:** `2026-06-16`
@@ -1526,15 +1502,12 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-035_20260610_132334.jpg
- LETTER-035_20260613_085703.jpg
-
-
----
+ LETTER-037_20260610_132334.jpg
+ LETTER-037_20260613_085703.jpg
 
 ---
 
-## LETTER-036: Papai
+## LETTER-038: Papai
 
 **Email ID:** `19ef6f1353850864`
 **Letter Date:** `2026-06-23`
@@ -1565,20 +1538,18 @@ Elder Nelson
 Olá Pretty interesting transfer news. I&#39;m going to Parque das Maias and will be finishing the training of Elder Álvarez, so I&#39;m going to be a pai (if you training someone, they become your filho (son) and you become their pai (dad) ). Parque das Maias is in Porto Alegre, so I&#39;m sure my emails are only going to be more interesting from here on out. I&#39;m also going to be the DL (district leader) which means that I will be in charge of other missionaries. We were teaching these two little girls last week, and I offered to say the prayer in English just to impress them, and unfortunately, I was not able to finish my prayer in English without a little bit of portuguese. I am forgetting my English! Besides that, this week was not super interesting. I saw a picture of a dead penguin on the beach here, and I&#39;m not sure how he got here, must have swam from Argentina. Tchau, Elder Nelson
 
 Images:
- LETTER-036_Messenger_creation_194CC43F-0D93-42FE-9884-DBB019DAD0E0.jpeg
- LETTER-036_Messenger_creation_74DF2B0A-D2E1-4D8B-82AE-90FDE299D323.jpeg
- LETTER-036_Messenger_creation_0C70E132-418C-480B-B435-AF172DFF2E43.jpeg
- LETTER-036_IMG-20260620-WA0228.jpg
- LETTER-036_Messenger_creation_C8EE52CE-5C12-4ABA-BAA5-C7C59B0DFD3E.jpeg
- LETTER-036_IMG-20260620-WA0232.jpg
- LETTER-036_Messenger_creation_E8B50BCD-A4BC-4011-9D0F-FAAF5D48E167.jpeg
- LETTER-036_Messenger_creation_951937E6-A4A0-4A70-A473-5281610C9FA9.jpeg
+ LETTER-038_IMG-20260620-WA0228.jpg
+ LETTER-038_IMG-20260620-WA0232.jpg
+ LETTER-038_Messenger_creation_0C70E132-418C-480B-B435-AF172DFF2E43.jpeg
+ LETTER-038_Messenger_creation_194CC43F-0D93-42FE-9884-DBB019DAD0E0.jpeg
+ LETTER-038_Messenger_creation_74DF2B0A-D2E1-4D8B-82AE-90FDE299D323.jpeg
+ LETTER-038_Messenger_creation_951937E6-A4A0-4A70-A473-5281610C9FA9.jpeg
+ LETTER-038_Messenger_creation_C8EE52CE-5C12-4ABA-BAA5-C7C59B0DFD3E.jpeg
+ LETTER-038_Messenger_creation_E8B50BCD-A4BC-4011-9D0F-FAAF5D48E167.jpeg
 
 ---
 
----
-
-## LETTER-037: Good Week
+## LETTER-039: Good Week
 
 **Email ID:** `19f244efe6638ea0`
 **Letter Date:** `2026-07-02`
@@ -1612,17 +1583,14 @@ Off to find my belt so I can give some gentle correction to my filho,
 Elder Nelson
 
 Images:
- LETTER-037_IMG-20260629-WA0029.jpg
- LETTER-037_IMG-20260623-WA0016.jpg
- LETTER-037_IMG-20260623-WA0029.jpg
- LETTER-037_20260629_135056.jpg
-
-
----
+ LETTER-039_20260629_135056.jpg
+ LETTER-039_IMG-20260623-WA0016.jpg
+ LETTER-039_IMG-20260623-WA0029.jpg
+ LETTER-039_IMG-20260629-WA0029.jpg
 
 ---
 
-## LETTER-038: Elder Álvarez, você é autista?
+## LETTER-040: Elder Álvarez, você é autista?
 
 **Email ID:** `19f3cc9aab6b5a1b`
 **Letter Date:** `2026-07-07`
@@ -1648,17 +1616,14 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-038_20260702_222641.jpg
- LETTER-038_20260704_153535.jpg
- LETTER-037_IMG-20260629-WA0029.jpg
- LETTER-038_IMG-20260704-WA0042.jpg
-
-
----
+ LETTER-040_20260702_222641.jpg
+ LETTER-040_20260704_153535.jpg
+ LETTER-040_IMG-20260629-WA0029.jpg
+ LETTER-040_IMG-20260704-WA0042.jpg
 
 ---
 
-## LETTER-039: Julina
+## LETTER-041: Julina
 
 **Email ID:** `19f675607c6c09c4`
 **Letter Date:** `2026-07-15`
@@ -1685,17 +1650,17 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-039_IMG-20260710-WA0012.jpg
- LETTER-039_IMG-20260709-WA0001.jpg
- LETTER-039_20260711_173219.jpg
- LETTER-038_IMG-20260704-WA0042.jpg
- LETTER-039_20260707_172609.jpg
- LETTER-039_IMG-20260707-WA0007.jpg
- LETTER-039_IMG-20260707-WA0003.jpg
+ LETTER-041_20260707_172609.jpg
+ LETTER-041_20260711_173219.jpg
+ LETTER-041_IMG-20260704-WA0042.jpg
+ LETTER-041_IMG-20260707-WA0003.jpg
+ LETTER-041_IMG-20260707-WA0007.jpg
+ LETTER-041_IMG-20260709-WA0001.jpg
+ LETTER-041_IMG-20260710-WA0012.jpg
 
 ---
 
-## LETTER-040: Haitians and Heat Waves
+## LETTER-042: Haitians and Heat Waves
 
 **Email ID:** `19f89c144a2c730a`
 **Letter Date:** `2026-07-22`
@@ -1724,18 +1689,18 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-039_IMG-20260710-WA0012.jpg
- LETTER-039_IMG-20260709-WA0001.jpg
- LETTER-040_IMG-20260719-WA0008.jpg
- LETTER-040_20260718_182323.jpg
- LETTER-040_20260717_211126.jpg
+ LETTER-042_20260717_211126.jpg
+ LETTER-042_20260718_182323.jpg
+ LETTER-042_IMG-20260709-WA0001.jpg
+ LETTER-042_IMG-20260710-WA0012.jpg
+ LETTER-042_IMG-20260719-WA0008.jpg
 
 ---
 
-## LETTER-041: Chuvão
+## LETTER-043: Chuvão
 
 **Email ID:** `19fab1282c61939f`
-**Letter Date:** `2026-07-28` (inferred)
+**Letter Date:** `2026-07-28`
 
 Olá,
 
@@ -1759,16 +1724,15 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-041_1000400900.jpg
- LETTER-041_Image.jpg
-
+ LETTER-043_1000400900.jpg
+ LETTER-043_Image.jpg
 
 ---
 
-## LETTER-042: Transferência
+## LETTER-044: Transferência
 
 **Email ID:** `19fd214dcd2cb598`
-**Letter Date:** `2026-08-05` (inferred)
+**Letter Date:** `2026-08-05`
 
 Olá,
 
@@ -1795,15 +1759,14 @@ Elder Nelson
 https://photos.google.com/share/AF1QipPRgnfPeHqXHhPda_m2RLfvrMEzhxhnFMPThug2APvd3YoIwPFgtNkj-Y3-K-FLWw/photo/AF1QipN7Pgmxb3toq8qVfVFwkU838fp3GIP1TkJVoOCI?key=cVhmaXNfWV9td212Mlh6Z3JwWUhsZXIzaXFBa2xB
 
 Images:
- LETTER-042_VID-20260803-WA0007.mp4
-
+ LETTER-044_VID-20260803-WA0007.mp4
 
 ---
 
-## LETTER-043: Noticias de Novo Hamburgo
+## LETTER-045: Noticias de Novo Hamburgo
 
 **Email ID:** `19ff6d1ee92907ca`
-**Letter Date:** `2026-08-12` (inferred)
+**Letter Date:** `2026-08-12`
 
 Olá,
 I'm in Novo Hamburgo now. I think this area I'm in right now, which I think
@@ -1831,17 +1794,16 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-043_IMG-20260806-WA0004.jpg
- LETTER-043_20260808_113509.jpg
- LETTER-043_20260809_121824.jpg
-
+ LETTER-045_20260808_113509.jpg
+ LETTER-045_20260809_121824.jpg
+ LETTER-045_IMG-20260806-WA0004.jpg
 
 ---
 
-## LETTER-044: Chuvão
+## LETTER-046: Chuvão
 
 **Email ID:** `1a01702ff2a19a51`
-**Letter Date:** `2026-08-18` (inferred)
+**Letter Date:** `2026-08-18`
 
 Olá,
 
@@ -1861,17 +1823,16 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-044_20260815_142922.jpg
- LETTER-044_Messenger_creation_BF2C3541-88CE-497D-8B9D-C39FC5FD6ABA.jpeg
- LETTER-044_Messenger_creation_3A257FA4-DA23-468E-B6A2-18E0FB44C0C9.jpeg
-
+ LETTER-046_20260815_142922.jpg
+ LETTER-046_Messenger_creation_3A257FA4-DA23-468E-B6A2-18E0FB44C0C9.jpeg
+ LETTER-046_Messenger_creation_BF2C3541-88CE-497D-8B9D-C39FC5FD6ABA.jpeg
 
 ---
 
-## LETTER-045: Mudança
+## LETTER-047: Mudança
 
 **Email ID:** `1a03e94f5cb80562`
-**Letter Date:** `2026-08-26` (inferred)
+**Letter Date:** `2026-08-26`
 
 Olá,
 
@@ -1891,18 +1852,17 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-045_20260823_195117.jpg
- LETTER-045_Messenger_creation_1DFF1A68-91AC-4B99-AFA7-03E894E3F544.jpeg
- LETTER-045_Messenger_creation_137F1D6E-CCB6-471E-B92D-73484BE98CE7.jpeg
- LETTER-045_Messenger_creation_7530AEE1-775C-4244-903D-10BAE0BFEAA6.jpeg
-
+ LETTER-047_20260823_195117.jpg
+ LETTER-047_Messenger_creation_137F1D6E-CCB6-471E-B92D-73484BE98CE7.jpeg
+ LETTER-047_Messenger_creation_1DFF1A68-91AC-4B99-AFA7-03E894E3F544.jpeg
+ LETTER-047_Messenger_creation_7530AEE1-775C-4244-903D-10BAE0BFEAA6.jpeg
 
 ---
 
-## LETTER-046: Um aninho
+## LETTER-048: Um aninho
 
 **Email ID:** `1a06217b0dca387e`
-**Letter Date:** `2026-09-02` (inferred)
+**Letter Date:** `2026-09-02`
 
 Olá,
 
@@ -1927,19 +1887,18 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-046_Messenger_creation_08B046EF-A59B-4D16-B4BA-71BC9D99C956.jpeg
- LETTER-046_Messenger_creation_09194282-CE99-489A-8E33-623C06DA288D.jpeg
- LETTER-046_Messenger_creation_CD7D9E98-4C28-4639-A232-C00F3FCF9B89.jpeg
- LETTER-046_Messenger_creation_DDEC330F-4C8B-475E-BC5C-290B6B61293A.jpeg
- LETTER-046_Messenger_creation_E648AA2D-A6E2-4DE5-B4DF-CEFFBB9B4FE9.jpeg
-
+ LETTER-048_Messenger_creation_08B046EF-A59B-4D16-B4BA-71BC9D99C956.jpeg
+ LETTER-048_Messenger_creation_09194282-CE99-489A-8E33-623C06DA288D.jpeg
+ LETTER-048_Messenger_creation_CD7D9E98-4C28-4639-A232-C00F3FCF9B89.jpeg
+ LETTER-048_Messenger_creation_DDEC330F-4C8B-475E-BC5C-290B6B61293A.jpeg
+ LETTER-048_Messenger_creation_E648AA2D-A6E2-4DE5-B4DF-CEFFBB9B4FE9.jpeg
 
 ---
 
-## LETTER-047: Transferência
+## LETTER-049: Transferência
 
 **Email ID:** `1a086d884cf54ea7`
-**Letter Date:** `2026-09-09` (inferred)
+**Letter Date:** `2026-09-09`
 
 Olá,
 
@@ -1961,17 +1920,16 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-047_IMG-20260907-WA0058.jpg
- LETTER-047_Messenger_creation_F9D774D6-B2E3-4DEE-8B42-EFCC07D9DDF1.jpeg
- LETTER-047_Messenger_creation_2296D3CA-ACFC-4A1F-B0B7-6A2B1885B4E8.jpeg
-
+ LETTER-049_IMG-20260907-WA0058.jpg
+ LETTER-049_Messenger_creation_2296D3CA-ACFC-4A1F-B0B7-6A2B1885B4E8.jpeg
+ LETTER-049_Messenger_creation_F9D774D6-B2E3-4DEE-8B42-EFCC07D9DDF1.jpeg
 
 ---
 
-## LETTER-048: Cuscuz
+## LETTER-050: Cuscuz
 
 **Email ID:** `1a0aa4d27ba1a9ad`
-**Letter Date:** `2026-09-16` (inferred)
+**Letter Date:** `2026-09-16`
 
 Olá,
 
@@ -1991,12 +1949,11 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-048_20260911_143650.jpg
- LETTER-048_IMG-20260908-WA0013.jpg
- LETTER-048_IMG-20260909-WA0031.jpg
- LETTER-048_IMG-20260914-WA0003.jpg
- LETTER-048_IMG-20260914-WA0004.jpg
- LETTER-048_IMG-20260914-WA0007.jpg
-
+ LETTER-050_20260911_143650.jpg
+ LETTER-050_IMG-20260908-WA0013.jpg
+ LETTER-050_IMG-20260909-WA0031.jpg
+ LETTER-050_IMG-20260914-WA0003.jpg
+ LETTER-050_IMG-20260914-WA0004.jpg
+ LETTER-050_IMG-20260914-WA0007.jpg
 
 ---

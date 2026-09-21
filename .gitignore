@@ -1,0 +1,5 @@
+.DS_Store
+*.DS_Store
+*_backup_pre_reindex/
+output/
+tmp-imagegen/

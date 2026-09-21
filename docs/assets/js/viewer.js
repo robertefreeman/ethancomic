@@ -125,7 +125,8 @@
           <source srcset="${webpURL}" type="image/webp">
           <img src="${pngURL}"
                alt="Comic illustration for ${escapeHTML(letter.id)} — ${escapeHTML(letter.subject)}"
-               loading="lazy" decoding="async" width="1254" height="1254">
+               loading="lazy" decoding="async" width="1254" height="1254"
+               onerror="this.closest('figure').style.display='none'">
         </picture>
         <figcaption>${escapeHTML(letter.id)} — ${escapeHTML(letter.subject)}</figcaption>
       </figure>
