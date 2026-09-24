@@ -1957,3 +1957,39 @@ Images:
  LETTER-050_IMG-20260914-WA0007.jpg
 
 ---
+
+## LETTER-051: Que tri legal tchê
+
+**Email ID:** `1a0d0350dd6232c4`
+**Letter Date:** `2026-09-23`
+
+Olá,
+
+It was the day of the gáucho yesterday (September 20th) so I wore my
+bombachas to honor my people. There were also a lottttt of people having
+churrasco, so the entire day I was just smelling meat.
+
+We were in this lady's house this week and she showed us an autobiography
+that her friend had written (the friend is 97) that had a poem half written
+in Portuguese and half in German. There's one line that I really like (i'll
+see if i can take a picture for next week's email) that says "Mein Gott!!
+Eles não param de chegar!" (My god!! They don't stop coming!) Which is to
+refer to her kids I think? I wasn't paying too much attention to the poem
+but this line stood out to me.
+
+We also baptized this lady (the lady mentioned above) that is probably the
+funniest person I've met in Brazil. A majority of the stories she tells us
+aren't appropriate for a missionary email, but they are very funny.
+
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-051_IMG-20260919-WA0020.jpg
+ LETTER-051_IMG-20260921-WA0003.jpg
+ LETTER-051_IMG-20260921-WA0008.jpg
+ LETTER-051_IMG-20260921-WA0015.jpg
+ LETTER-051_IMG-20260921-WA0016.jpg
+
+---
