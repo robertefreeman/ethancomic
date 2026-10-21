@@ -1,0 +1,5 @@
+Image 1: current start frame. Image 2: Ethan character sheet. Image 3: Yallico character sheet.
+Change only the two characters' positions and gestures:
+- Move Ethan (curly light-brown hair, maroon tie) one full step ahead to the right, so there is an arm's length of clear space between the two men; Ethan twists his upper body back toward Yallico, startled, his near hand lifted slightly toward him in a half-reaching gesture (not touching his own belt).
+- Yallico (black hair, glasses, navy tie) is halted, feet planted, bent slightly, his right hand pressed to his lower right back, his left hand bracing on his thigh, wincing.
+Preserve exactly: the sunny Brazilian street, houses, power lines, church on the hill, camera angle, framing, lighting, color grade, art style, identities, clothing. No text, logos or new elements.

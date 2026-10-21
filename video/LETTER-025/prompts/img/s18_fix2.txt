@@ -1,0 +1,2 @@
+Image 1: current frame. Change only the background on the right: the brown sofa now has the family sitting on it, seen softly out of focus at the right edge - the mother in a purple T-shirt and blue floral skirt and the father in a green polo, both looking at Ethan with sheepish smiles. Ethan is pointing at them.
+Preserve exactly: Ethan, his pose, pointing hand, grin, book, chair, clothing, identity, the room, camera angle, framing, lighting, color grade and art style. No text, logos or other new elements.

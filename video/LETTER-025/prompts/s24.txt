@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and flat muted warm watercolor color. Medium close shot on a sunny Brazilian street outside a house: a young missionary with curly light-brown hair faces the camera, wipes his brow with the back of his hand in relief, then gives a small knowing smirk and raises one eyebrow. The camera is static. Mouths stay closed. No captions or on-screen text.
+
+overall_soundscape: Daytime street ambience, birds, a distant dog. No voices, narration or singing.
+
+non_diegetic_music: N/A

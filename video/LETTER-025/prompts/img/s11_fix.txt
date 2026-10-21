@@ -1,0 +1,3 @@
+Image 1: current start frame (clinic room). Image 2: Yallico character sheet.
+Change only: the patient (Yallico, black hair, glasses, in the bed) is now wincing in discomfort - brows furrowed, eyes squeezed shut, mouth tight; his right hand rests flat on the sheet near his side (no thumbs-up). Add a clear freestanding metal IV pole with a hook beside the bed, which the nurse is hanging the bag on.
+Preserve exactly: the room, night window, wall outlets without lettering, white plastic chair, Ethan seated and worried, the nurse's look and pose, camera angle, framing, lighting, color grade, art style, identities, clothing. No text, labels, logos or new elements.

@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and flat muted warm watercolor color. Medium-wide shot of a modest Brazilian living room: a family of four on a sofa bursts out laughing, the father slapping his knee, the daughter covering her mouth, the son doubling over; his companion, a young missionary with short black hair and rectangular glasses laughs in his chair and a young missionary with curly light-brown hair, white short-sleeved shirt and maroon tie laughs with relief. The camera is static. Everyone shakes with laughter in their own seat. Mouths stay closed. No captions or on-screen text.
+
+overall_soundscape: Several people laughing heartily together, no words, a knee slap, a fan whirring. No narration or singing.
+
+non_diegetic_music: N/A

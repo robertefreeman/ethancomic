@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and flat muted warm watercolor color. Close-medium shot at dawn in a clinic: a young missionary with curly light-brown hair and a loosened maroon tie sits slumped sideways in a white plastic chair, exhausted. The camera pushes in with small amplitude at slow speed. His head slowly droops, jerks back up, then droops again; his eyelids flutter heavily; pale dawn light grows on the wall. Mouths stay closed. No captions or on-screen text.
+
+overall_soundscape: Slow soft monitor beeps, fluorescent hum, a long tired exhale through the nose. No voices, narration or singing.
+
+non_diegetic_music: N/A

@@ -1,0 +1,10 @@
+Image 1: Ethan (Elder Nelson) character sheet - Ethan's identity and the ART STYLE authority (fine pen-and-ink outlines, light pencil hatching, muted warm watercolor color).
+Image 2: real photo of the zone conference room - location reference only (green chalkboard, green metal folding chairs, cream walls, red fire extinguisher, tiled floor). Do not copy the people.
+
+Create the opening frame of an animated shot. A church classroom in Brazil during a missionary zone conference, daytime: green chalkboard in a wooden frame, a wooden lectern, rows of green metal folding chairs, cream walls, a red fire extinguisher, light tiled floor.
+Center-right, medium shot: Ethan (curly light-brown hair, white short-sleeved shirt, maroon patterned tie, blank black name badge) shakes hands warmly with a fellow young missionary friend he hasn't seen in a while (short dark-brown hair, white shirt, blue tie, blank badge), Ethan's other hand about to clap the friend on the shoulder. Both grinning, standing an arm's length apart, faces turned toward each other but clearly separated, mouths closed.
+Background: a few other young missionaries in white shirts and ties and a couple of sister missionaries in modest dresses chatting in small groups, soft-focus, mouths closed.
+
+STYLE LOCK (MANDATORY): match Image 1's art style exactly, 1990s comic-strip cartoon, clearly non-photorealistic, expressive cartoon faces.
+NEGATIVE: no photorealism, no painterly realism, no panel borders, no speech bubbles, no text on the chalkboard, no readable name badges, no logos, no watermark.
+FRAMING: 16:9 start frame cropped from 3:2; keep Ethan's and the friend's heads and hands fully inside the middle band with headroom.

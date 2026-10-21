@@ -1,0 +1,22 @@
+# log
+- 2026-10-20 16:23 Phase 0: project created; refs symlinked; source_letter.txt extracted (334 words); shots.json v1 (25 shots); narration.md v1 (339 words).
+- 864 I2V lane smoke: prompt 0b4ee826, 142 s, 864x480x124 @24, ok.
+- Yallico sheet v1: image_generate edit (Ethan sheet + 141613 + 224158) -> refs/yallico-character-sheet_v1.png (first call 429, retried after 60 s)
+- Voice: Qwen A2 chosen; ref audio/voice_design/ethan_narrator.wav (44.1k, 13.88 s, sha256 09a2a366...); registered on refm4 Fish VOICE_REGISTRY 'ethan_narrator' (backup server.py.bak-20261021-ethan); launchctl kickstart ai.refm4.fish; health 200; Fish test fish_ethan_test1.wav 13.6 s, log voice=ethan_narrator ref=yes, RTF 2.83
+- Yallico sheet v2: style-match edit of v1 toward Ethan sheet -> refs/yallico-character-sheet_v2.png
+- s10 frame v1 -> frames/s10_src_v1.png / s10_start_v1.png (864x480 crop)
+- s10 frame v2 (edit: direction toward car, back-support arm, closer)
+- s10 take1: 864 lane seed 7 124f, 147.8 s, dmesg 0, qwen 200
+- s10 take2: prompt s10_t2 (truck right, slow 2 strides, faces apart), seed 11, 148.9 s
+- s10 frame v3: shoulder-carry (bridal carry produced face contact in H3 t1/t2)
+- s10 frame v3f: hflip of v3 so the pair faces the car
+- s10 take3: frame v3f shoulder-carry, prompt s10_t3, seed 7, 149.0 s
+- s10 frame v5 (Option A restage: wide from behind) via Sunburst (tools/img.py), 40 s
+- s10 take4: frame v5 (Sunburst, wide from behind), prompt s10_t4, seed 7, 148.5 s
+- s10 take4 PASS (limited); see review/s10.md
+- s04 A/B: same prompt, flare vs sunburst -> review/s04_ab_sheet_flare_sunburst.png
+- A/B verdict (vision, blind order: A=flare, B=sunburst): flare preferred for s04 (identity, style, anatomy). Sunburst 74 s vs flare 33 s.
+- s10 A/B2: A=sunburst B=flare (order flipped)
+- A/B2 verdict (A=sunburst, B=flare): flare preferred on brief, style ~tie. 2/2 blind A/Bs favour flare; sunburst ~1.2-2.2x slower. Keep flare default; sunburst for hero retries only.
+- s04 take1: Option A handshake, flare frame, seed 7
+- FINAL v1: final/hospital_vagabundos_v1.mp4 1920x1080 24fps 3103f 129.4 s, -13.9 LUFS, decode clean, only freeze = end card, ASR 0.988 vs script. Render: remotion concurrency 3 (6 OOM-killed). Skills updated.

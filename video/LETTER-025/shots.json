@@ -1,0 +1,345 @@
+[
+ {
+  "id": "s01",
+  "act": "open",
+  "vo": "",
+  "visual": "Title card: 'Hospital Vagabundos' in comic lettering, small 'Letter 25 · March 2026 · Rio Grande do Sul, Brasil'; comic-page paper texture, panel borders snapping in.",
+  "method": "remotion",
+  "refs": [],
+  "ambience": "music sting",
+  "graphics": "title",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s02",
+  "act": "open",
+  "vo": "Olá! Been an interesting week.",
+  "visual": "Ethan at a small apartment table with a laptop/phone, finishes typing, looks up and waves at camera, mouth closed, smiling.",
+  "method": "h3",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "room tone, keyboard clicks",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s03",
+  "act": "I",
+  "vo": "We had a Zone Conference earlier this week, which was nice,",
+  "visual": "Wide: church classroom (green chalkboard, green metal folding chairs, red fire extinguisher) filling with young missionaries in white shirts and ties with name tags.",
+  "method": "h3",
+  "refs": [
+   "LETTER-025_IMG-20260324-WA0017.jpg",
+   "LETTER-025_IMG-20260324-WA0015.jpg"
+  ],
+  "ambience": "crowd chatter murmur (no intelligible words), chairs scraping",
+  "graphics": "location label: Zone Conference",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s04",
+  "act": "I",
+  "vo": "because I got to see all my friends that I haven't seen in a while.",
+  "visual": "Medium: Ethan spots two elder friends, big hug and back-slap, handshake; others laughing silently in background.",
+  "method": "h3",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "crowd murmur, back slaps",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s05",
+  "act": "I",
+  "vo": "Then I did a division in Capão da Canoa,",
+  "visual": "Wide: white coastal sand dunes, deep-blue sky, low green dune grass; Ethan in sunglasses and tie walks over the crest, arms open like he's presenting the view (WA0028 pose).",
+  "method": "h3",
+  "refs": [
+   "LETTER-025_IMG-20260320-WA0028.jpg"
+  ],
+  "ambience": "wind over dunes, distant surf",
+  "graphics": "location label: Capão da Canoa",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s06",
+  "act": "I",
+  "vo": "which was great, 'cause I got to see some members that I liked when I was there.",
+  "visual": "Covered tile porch with green louvered shutters and green door; a smiling gray-haired woman in a leopard-print blouse greets Ethan and Elder Yallico; warm hug/handshake.",
+  "method": "h3",
+  "refs": [
+   "LETTER-025_20260321_141613.jpg"
+  ],
+  "ambience": "birds, neighborhood street",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s07",
+  "act": "II",
+  "vo": "On Friday, my comp decided to start dying, so we had to go to the hospital. More of a clinic, really.",
+  "visual": "Medium: on a sunny street Yallico suddenly winces, hand on his right side/lower back; Ethan does a comic double-take.",
+  "method": "h3",
+  "refs": [
+   "yallico sheet"
+  ],
+  "ambience": "street ambience",
+  "graphics": "label: Friday",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s08",
+  "act": "II",
+  "vo": "He was complaining about pain in his liver and his back, but wasn't really doing that bad during the day.",
+  "visual": "Daytime street walk: Yallico rubbing his back but walking OK, gives a so-so hand wobble; Ethan glances at him.",
+  "method": "h3",
+  "refs": [
+   "yallico sheet"
+  ],
+  "ambience": "street ambience, footsteps",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s09",
+  "act": "II",
+  "vo": "But when we got home, the pain got a lot worse,",
+  "visual": "Night, simple missionary apartment: Yallico curled up on a worn couch clutching his side; Ethan rushes in, alarmed.",
+  "method": "h3",
+  "refs": [
+   "yallico sheet"
+  ],
+  "ambience": "quiet night interior, groan (non-verbal)",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s10",
+  "act": "II",
+  "vo": "so I had to carry him to an Uber and go to the hospital.",
+  "visual": "HERO. Night street with streetlights: Ethan carries Yallico (arm over shoulder / piggyback) toward a waiting small car with its headlights on.",
+  "method": "h3",
+  "refs": [
+   "yallico sheet"
+  ],
+  "ambience": "night street, car idling, footsteps",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s11",
+  "act": "II",
+  "vo": "Once there, they gave him morphine,",
+  "visual": "Night clinic room: nurse hangs an IV bag on a stand; Yallico in bed with blue pillow; wall ports and dark window.",
+  "method": "h3",
+  "refs": [
+   "LETTER-025_20260320_224158.jpg"
+  ],
+  "ambience": "monitor beeps, fluorescent hum",
+  "graphics": "wall labels VÁCUO / OXIGÊNIO via Remotion if garbled",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s12",
+  "act": "II",
+  "vo": "and just let him sleep.",
+  "visual": "Yallico asleep, glasses askew, IV drip falling; Ethan in a white plastic chair watching.",
+  "method": "h3",
+  "refs": [
+   "LETTER-025_20260320_224158.jpg"
+  ],
+  "ambience": "slow beeps, soft snoring",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s13",
+  "act": "II",
+  "vo": "So, we'll see what happens this week.",
+  "visual": "Recreation of the real selfie: Ethan grinning at camera holding phone, Yallico in bed behind him giving a thumbs-up.",
+  "method": "h3",
+  "refs": [
+   "LETTER-025_20260320_224158.jpg"
+  ],
+  "ambience": "beeps",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s14",
+  "act": "II",
+  "vo": "We ended up being at the hospital for eight hours. Ten p.m. to six a.m.",
+  "visual": "Wall clock over the clinic room; hands spin; window goes from night to dawn.",
+  "method": "remotion+h3plate",
+  "refs": [
+   "LETTER-025_20260320_224158.jpg"
+  ],
+  "ambience": "clock ticking",
+  "graphics": "clock counter 10:00 PM → 6:00 AM",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s15",
+  "act": "II",
+  "vo": "And I hit the milestone of going without sleep, food, and water for twenty-four hours.",
+  "visual": "Ethan slumped sideways in the plastic chair, exhausted, eyes half closed, dawn light.",
+  "method": "h3",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "beeps, a yawn",
+  "graphics": "'24 HOURS' milestone badge pops (no sleep / no food / no water icons)",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s16",
+  "act": "II",
+  "vo": "I woke up at five thirty the previous day to catch a bus, and after the hospital, slept until midday, which is when I had last eaten and drank.",
+  "visual": "Animated day timeline: 5:30 AM bus → zone/day → 10 PM clinic → 6 AM → noon bed; small Ethan cartoon cutouts on each stop.",
+  "method": "remotion",
+  "refs": [],
+  "ambience": "music only",
+  "graphics": "timeline graphic",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s17",
+  "act": "III",
+  "vo": "Also, we were teaching a family this week, and we had asked them to read the Book of Mormon, and they hadn't yet.",
+  "visual": "Modest Brazilian living room: Ethan and Yallico on chairs facing a family on a sofa; Ethan holds up a blue book; family shrugs sheepishly.",
+  "method": "h3",
+  "refs": [
+   "yallico sheet"
+  ],
+  "ambience": "room tone, fan",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s18",
+  "act": "III",
+  "vo": "So I jokingly called them vagabundos,",
+  "visual": "Close: Ethan grinning, pointing playfully at the family (character-sheet POINTING pose).",
+  "method": "h3",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "room tone",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s19",
+  "act": "III",
+  "vo": "which I thought meant what Google Translate had told me. Which, it means bums. Which is a word I used a lot in English.",
+  "visual": "Phone screen: generic translate app 'vagabundos → bums' with thumbs-up-ish confidence; over a blurred H3 plate of Ethan.",
+  "method": "remotion",
+  "refs": [],
+  "ambience": "phone tap",
+  "graphics": "phone translate UI",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s20",
+  "act": "III",
+  "vo": "Unluckily for me, Google Translate lied to me.",
+  "visual": "Smash punch-in on Ethan's face, smile freezing; translate result glitches and cracks.",
+  "method": "remotion+h3still",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "record scratch SFX",
+  "graphics": "glitch",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s21",
+  "act": "III",
+  "vo": "In Portuguese, it is a lot stronger. And for women, it has a different connotation, one which I cannot repeat on a missionary email!",
+  "visual": "Ethan's face goes red, hand slaps over mouth, sweat drop; then 'CENSORED' stamp slams over a speech bubble.",
+  "method": "h3",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "gulp, music stop",
+  "graphics": "CENSORED stamp / #$%! bubble",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s22",
+  "act": "III",
+  "vo": "All turned out well in the end. They thought it was hilarious.",
+  "visual": "The family bursts out laughing, slapping knees; Yallico laughing; Ethan relieved, laughs too.",
+  "method": "h3",
+  "refs": [
+   "yallico sheet"
+  ],
+  "ambience": "laughter allowed, no words",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s23",
+  "act": "III",
+  "vo": "They kept calling each other vagabundos after this, and now I'm in a group chat with them titled vagabundos.",
+  "visual": "Phone group chat 'vagabundos' with message bubbles pinging in ('vagabundo!', 'kkkkk', '😂').",
+  "method": "remotion",
+  "refs": [],
+  "ambience": "message pings",
+  "graphics": "group chat UI",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s24",
+  "act": "III",
+  "vo": "And I was spared from being beat up. In the future, I will only call people who deserve it vagabundos.",
+  "visual": "Ethan to camera, wipes brow in relief, then raises one eyebrow knowingly.",
+  "method": "h3",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "street ambience",
+  "graphics": "none",
+  "edit_s": null,
+  "gen_frames": null
+ },
+ {
+  "id": "s25",
+  "act": "close",
+  "vo": "Tchau. Elder Nelson.",
+  "visual": "Golden-hour Brazilian street (low houses, power lines): Ethan waves goodbye with scriptures under arm; end card.",
+  "method": "h3",
+  "refs": [
+   "ethan-character-sheet-90s.png"
+  ],
+  "ambience": "evening birds",
+  "graphics": "end card",
+  "edit_s": null,
+  "gen_frames": null
+ }
+]

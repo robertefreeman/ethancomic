@@ -12,6 +12,7 @@ Hosted live on GitHub Pages from `/docs` on `main`.
 ethan-comic/
 ├── README.md                      # Project overview and instructions
 ├── COMIC-GENERATION-INSTRUCTIONS.md # Standards and workflow for comic artwork
+├── VIDEO-GENERATION-INSTRUCTIONS.md # Agent workflow for narrated short films from letters
 ├── GPT-IMAGE-PROMPTING-GUIDE.md   # Prompt engineering reference for comic generation
 ├── ethan-character-sheet-90s.png  # Primary character visual consistency reference
 │
@@ -37,6 +38,12 @@ ethan-comic/
 │   ├── build_letters_data.py      # Parses markdown archive → docs/data/letters.json
 │   └── build_webp_variants.py     # Converts comic PNGs → WebP at 85% quality
 │
+├── video/                         # [SHORT FILMS] tools, Remotion template, per-letter records
+│   ├── tools/                     # Frame, H3 and clip-prep scripts
+│   ├── remotion-template/         # Remotion composition (graphics, edit, mix)
+│   ├── refs/                      # Companion character sheets
+│   └── LETTER-025/                # First film: script, prompts, reviews
+│
 └── archive/                       # [REFERENCE ASSETS]
     └── ethan-comic-example.png    # Visual reference for panel layout and storytelling
 ```
@@ -59,3 +66,9 @@ git add ethan_mission_letters/ docs/
 git commit -m "Add letters / update site data"
 git push origin main
 ```
+
+---
+
+## Short Films
+
+Letters can also be turned into narrated, comic-style short films: a narrator voice reads the letter while animated scenes in the comic style play. Agents should follow [`VIDEO-GENERATION-INSTRUCTIONS.md`](VIDEO-GENERATION-INSTRUCTIONS.md). The first film, **LETTER-025 "Hospital Vagabundos"** (2:09), is documented in [`video/LETTER-025/`](video/LETTER-025/). Rendered media is kept outside the repo.

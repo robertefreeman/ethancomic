@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and flat muted warm watercolor color. Wide shot of white coastal sand dunes under a deep-blue sky with low green dune grass, the sea at the horizon. A young missionary in a white shirt, tie, gray trousers and sunglasses stands on the dune crest with his arms open wide. The camera pulls out slowly. Wind ripples the grass and lifts a little sand off the crest; he turns slowly from side to side, arms still open, taking in the view. Mouths stay closed. No captions or on-screen text.
+
+overall_soundscape: Steady coastal wind over the dunes, grass rustling, distant surf. No voices, narration or singing.
+
+non_diegetic_music: N/A

@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, ink outlines with light hatching and muted warm color. Wide shot from behind, slightly elevated: a quiet Brazilian residential street at night under warm orange streetlights, low houses behind metal gates, a concrete power pole with tangled wires, and a small white hatchback parked ahead at the right curb with its rear door open, taillights glowing red. Two young missionaries in white short-sleeved shirts and dark trousers walk away from the camera toward the car: on the right a tall one with curly light-brown hair holds his companion up with an arm around his back; on the left the companion with short black hair is hunched forward, head bowed low, one arm slung over the tall one's shoulders, limping. The camera pushes in slowly behind them. They limp forward step by step, the companion's legs dragging, the tall one leaning to take his weight, their long shadows stretching back toward the camera. The car's interior light glows through the open door. Both stay facing away from the camera, their heads apart. No captions or on-screen text.
+
+overall_soundscape: Quiet night street ambience, a car engine idling ahead, uneven shuffling footsteps on concrete, distant dog bark, crickets. No voices, narration or singing.
+
+non_diegetic_music: N/A

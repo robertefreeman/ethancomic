@@ -1,0 +1,247 @@
+{
+ "fps": 24,
+ "title_s": 4.0,
+ "total_s": 129.312,
+ "shots": [
+  {
+   "id": "s02",
+   "vo_start": 4.0,
+   "vo_dur": 2.322,
+   "gap": 0.8,
+   "from": 3.75,
+   "to": 6.872,
+   "len": 3.122,
+   "text": "Ol\u00e1! Been an interesting week."
+  },
+  {
+   "id": "s03",
+   "vo_start": 7.122,
+   "vo_dur": 2.879,
+   "gap": 0.8,
+   "from": 6.872,
+   "to": 10.551,
+   "len": 3.679,
+   "text": "We had a Zone Conference earlier this week, which was nice,"
+  },
+  {
+   "id": "s04",
+   "vo_start": 10.801,
+   "vo_dur": 3.297,
+   "gap": 0.8,
+   "from": 10.551,
+   "to": 14.648,
+   "len": 4.097,
+   "text": "because I got to see all my friends that I haven't seen in a while."
+  },
+  {
+   "id": "s05",
+   "vo_start": 14.898,
+   "vo_dur": 2.183,
+   "gap": 0.8,
+   "from": 14.648,
+   "to": 17.631,
+   "len": 2.983,
+   "text": "Then I did a division in Cap\u00e3o da Canoa,"
+  },
+  {
+   "id": "s06",
+   "vo_start": 17.881,
+   "vo_dur": 3.398,
+   "gap": 1.3,
+   "from": 17.631,
+   "to": 22.329,
+   "len": 4.698,
+   "text": "which was great, 'cause I got to see some members that I liked when I was there."
+  },
+  {
+   "id": "s07",
+   "vo_start": 22.579,
+   "vo_dur": 6.12,
+   "gap": 0.8,
+   "from": 22.329,
+   "to": 29.249,
+   "len": 6.92,
+   "text": "On Friday, my comp decided to start dying, so we had to go to the hospital. More of a clinic, really."
+  },
+  {
+   "id": "s08",
+   "vo_start": 29.499,
+   "vo_dur": 5.171,
+   "gap": 0.8,
+   "from": 29.249,
+   "to": 35.22,
+   "len": 5.971,
+   "text": "He was complaining about pain in his liver and his back, but wasn't really doing that bad during the day."
+  },
+  {
+   "id": "s09",
+   "vo_start": 35.47,
+   "vo_dur": 2.831,
+   "gap": 0.8,
+   "from": 35.22,
+   "to": 38.852,
+   "len": 3.632,
+   "text": "But when we got home, the pain got a lot worse,"
+  },
+  {
+   "id": "s10",
+   "vo_start": 39.102,
+   "vo_dur": 2.882,
+   "gap": 0.8,
+   "from": 38.852,
+   "to": 42.533,
+   "len": 3.681,
+   "text": "so I had to carry him to an Uber and go to the hospital."
+  },
+  {
+   "id": "s11",
+   "vo_start": 42.783,
+   "vo_dur": 1.706,
+   "gap": 0.8,
+   "from": 42.533,
+   "to": 45.04,
+   "len": 2.507,
+   "text": "Once there, they gave him morphine,"
+  },
+  {
+   "id": "s12",
+   "vo_start": 45.29,
+   "vo_dur": 1.085,
+   "gap": 0.8,
+   "from": 45.04,
+   "to": 46.925,
+   "len": 1.885,
+   "text": "and just let him sleep."
+  },
+  {
+   "id": "s13",
+   "vo_start": 47.175,
+   "vo_dur": 1.95,
+   "gap": 1.3,
+   "from": 46.925,
+   "to": 50.175,
+   "len": 3.25,
+   "text": "So, we'll see what happens this week."
+  },
+  {
+   "id": "s14",
+   "vo_start": 50.425,
+   "vo_dur": 4.736,
+   "gap": 0.8,
+   "from": 50.175,
+   "to": 55.711,
+   "len": 5.536,
+   "text": "We ended up being at the hospital for eight hours. Ten p.m. to six a.m."
+  },
+  {
+   "id": "s15",
+   "vo_start": 55.961,
+   "vo_dur": 5.015,
+   "gap": 0.8,
+   "from": 55.711,
+   "to": 61.527,
+   "len": 5.816,
+   "text": "And I hit the milestone of going without sleep, food, and water for twenty-four hours."
+  },
+  {
+   "id": "s16",
+   "vo_start": 61.777,
+   "vo_dur": 7.392,
+   "gap": 1.3,
+   "from": 61.527,
+   "to": 70.219,
+   "len": 8.692,
+   "text": "I woke up at five thirty the previous day to catch a bus, and after the hospital, slept until midday, which is when I had last eaten and drank."
+  },
+  {
+   "id": "s17",
+   "vo_start": 70.469,
+   "vo_dur": 5.519,
+   "gap": 0.8,
+   "from": 70.219,
+   "to": 76.538,
+   "len": 6.319,
+   "text": "Also, we were teaching a family this week, and we had asked them to read the Book of Mormon, and they hadn't yet."
+  },
+  {
+   "id": "s18",
+   "vo_start": 76.788,
+   "vo_dur": 2.508,
+   "gap": 0.8,
+   "from": 76.538,
+   "to": 79.846,
+   "len": 3.308,
+   "text": "So I jokingly called them vagabundos,"
+  },
+  {
+   "id": "s19",
+   "vo_start": 80.096,
+   "vo_dur": 8.081,
+   "gap": 0.8,
+   "from": 79.846,
+   "to": 89.326,
+   "len": 9.48,
+   "text": "which I thought meant what Google Translate had told me. Which, it means bums. Which is a word I used a lot in English."
+  },
+  {
+   "id": "s20",
+   "vo_start": 89.576,
+   "vo_dur": 3.203,
+   "gap": 0.8,
+   "from": 89.326,
+   "to": 93.329,
+   "len": 4.003,
+   "text": "Unluckily for me, Google Translate lied to me."
+  },
+  {
+   "id": "s21",
+   "vo_start": 93.579,
+   "vo_dur": 7.657,
+   "gap": 0.8,
+   "from": 93.329,
+   "to": 101.786,
+   "len": 8.457,
+   "text": "In Portuguese, it is a lot stronger. And for women, it has a different connotation, one which I cannot repeat on a missionary email!"
+  },
+  {
+   "id": "s22",
+   "vo_start": 102.036,
+   "vo_dur": 4.666,
+   "gap": 0.8,
+   "from": 101.786,
+   "to": 107.252,
+   "len": 5.466,
+   "text": "All turned out well in the end. They thought it was hilarious."
+  },
+  {
+   "id": "s23",
+   "vo_start": 107.502,
+   "vo_dur": 5.644,
+   "gap": 0.8,
+   "from": 107.252,
+   "to": 113.696,
+   "len": 6.444,
+   "text": "They kept calling each other vagabundos after this, and now I'm in a group chat with them titled vagabundos."
+  },
+  {
+   "id": "s24",
+   "vo_start": 113.946,
+   "vo_dur": 6.641,
+   "gap": 1.3,
+   "from": 113.696,
+   "to": 121.637,
+   "len": 7.941,
+   "text": "And I was spared from being beat up. In the future, I will only call people who deserve it vagabundos."
+  },
+  {
+   "id": "s25",
+   "vo_start": 121.887,
+   "vo_dur": 1.625,
+   "gap": 0.8,
+   "from": 121.637,
+   "to": 129.312,
+   "len": 7.675,
+   "text": "Tchau. Elder Nelson."
+  }
+ ]
+}

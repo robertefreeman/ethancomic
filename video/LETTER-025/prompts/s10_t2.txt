@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and muted warm watercolor color, medium-wide side view of a quiet Brazilian residential street at night under warm orange streetlight: low houses with metal gates, a concrete power pole with tangled wires, a white compact hatchback at the right curb with its headlight on and the rear passenger door open. A young missionary with curly light-brown hair, white short-sleeved shirt, dark tie and charcoal trousers carries a second young missionary with short black hair and rectangular glasses in his arms; the carried man has one arm around his neck and presses his other hand to his side. The camera trucks right slowly, following them. The carrier walks slowly and heavily to the right, two deliberate strides spread across the whole shot, knees bending under the weight, only arriving beside the open rear door at the very end. The carried man's head tips back and away from the carrier's face, his eyes squeezed shut in pain, his free hand clutching his side; the two faces stay clearly apart. Both men remain fully visible the entire time. Both men keep their mouths closed. No captions or on-screen text.
+
+overall_soundscape: Quiet night street ambience, a car engine idling, footsteps on concrete, a few distant crickets. No voices, narration or singing.
+
+non_diegetic_music: N/A

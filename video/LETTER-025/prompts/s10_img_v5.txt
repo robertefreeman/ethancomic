@@ -1,0 +1,12 @@
+Image 1: Ethan (Elder Nelson) character sheet - Ethan's identity and the ART STYLE authority.
+Image 2: Elder Yallico character sheet - Yallico's identity (black hair, rectangular dark glasses, tan skin).
+Image 3: an earlier frame of this street at night - location, car and lighting reference.
+
+Create the opening frame of an animated shot. Night, a quiet residential street in a small city in Rio Grande do Sul, Brazil: low houses with corrugated roofs and metal gates, a concrete power pole with tangled wires, warm orange streetlights, cracked sidewalk.
+Camera: wide shot from BEHIND the two missionaries, slightly elevated, looking down the street. They are small in frame (about one third of frame height), lower-left of center, walking AWAY from the camera toward a small white hatchback parked at the curb about twenty steps ahead, its rear door open and its interior dome light glowing, headlights and taillights on.
+Pose: Ethan (curly light-brown hair, white short-sleeved shirt, dark trousers) walks on the right with his left arm around Yallico's back holding him up. Yallico (black hair, glasses visible at the side of his head) is hunched forward and limping, his right arm slung over Ethan's shoulders, his left hand pressed to his side. Seen from behind, their heads are clearly separated by a gap; Yallico's head hangs lower, bowed forward.
+Long shadows from the streetlight stretch back toward the camera.
+
+STYLE LOCK (MANDATORY): match Image 1's art style exactly: fine pen-and-ink outlines, light pencil hatching, muted warm watercolor-like color, 1990s comic-strip cartoon look, clearly non-photorealistic.
+NEGATIVE: no photorealism, no painterly realism, no panel borders, no speech bubbles, no text, no logos, no license plate text, no watermark.
+FRAMING: 16:9 start frame cropped from 3:2; keep both figures, their heads and the car fully inside the middle band.

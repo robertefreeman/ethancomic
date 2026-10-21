@@ -1,0 +1,3 @@
+Image 1: clinic-room frame. Image 2: Yallico sheet. Image 3: Ethan sheet.
+Change only: the nurse has left the room (remove her). Yallico lies peacefully asleep in the bed, eyes closed, mouth closed, glasses slightly askew, the IV line taped to his forearm and the IV bag hanging on the metal pole. Ethan sits in the white plastic chair, leaning forward with his elbows on his knees, watching him, tired.
+Preserve exactly: the room, night window, wall outlets without lettering, IV pole and bag, chair, camera angle, framing, lighting, color grade, art style, identities, clothing. No text, labels, logos or new elements.

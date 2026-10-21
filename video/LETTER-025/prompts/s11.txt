@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and flat muted warm watercolor color. Night in a small Brazilian clinic room with white walls, wall gas outlets, an IV stand and a dark window: his companion, a young missionary with short black hair and rectangular glasses lies in a bed with a blue pillow; a nurse in light-blue scrubs hangs an IV bag on the stand and adjusts the line; a young missionary with curly light-brown hair, white short-sleeved shirt and maroon tie sits worried in a white plastic chair. The camera is static. The nurse finishes and steps away; the IV drips; Yallico's face relaxes and his eyes slowly close. Mouths stay closed. No captions or on-screen text.
+
+overall_soundscape: Clinic room tone, a steady soft monitor beep, fluorescent hum, the rustle of the IV bag. No voices, narration or singing.
+
+non_diegetic_music: N/A

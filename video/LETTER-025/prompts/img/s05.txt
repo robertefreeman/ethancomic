@@ -1,0 +1,9 @@
+Image 1: Ethan (Elder Nelson) character sheet - identity and ART STYLE authority.
+Image 2: real photo - location/likeness reference only; redraw in cartoon style, ignore other details.
+
+Create the opening frame of an animated shot.
+Wide shot of white coastal sand dunes near Capão da Canoa, Brazil, deep-blue sky, low green dune grass, the sea glimpsed at the horizon. Ethan, in white shirt, salmon tie, gray trousers and sunglasses, stands on the dune crest, arms open wide as if presenting the view, smiling. Open sky in the upper-left for a location label.
+
+STYLE LOCK (MANDATORY): match the Ethan character sheet's art style exactly: fine pen-and-ink outlines, light pencil hatching, flat muted warm watercolor washes on a cream-paper feel, low saturation, soft even light (not dramatic cinematic lighting), 1990s comic-strip cartoon look, clearly non-photorealistic, expressive cartoon faces. Ethan: curly light-brown hair, white short-sleeved shirt, maroon patterned tie, blank black badge, charcoal trousers, black watch. Yallico: short black hair, rectangular dark glasses, warm tan skin, navy floral tie.
+NEGATIVE: no photorealism, no painterly realism, no panel borders, no speech bubbles, no captions, no text anywhere, no readable signs, no logos, no license plates, badges blank, no watermark.
+FRAMING: start frame of a 16:9 animated shot center-cropped from 3:2; keep heads and hands inside the middle band with headroom. Mouths closed unless stated.

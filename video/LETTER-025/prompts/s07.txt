@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and flat muted warm watercolor color. Medium shot on a sunny residential street in a small Brazilian city: his companion, a young missionary with short black hair and rectangular glasses suddenly stops mid-step and winces, pressing one hand to his lower right back and the other to his right side; a young missionary with curly light-brown hair, white short-sleeved shirt and maroon tie, a step ahead, turns back toward him with a startled double-take. The camera is static. Yallico bends slightly and grimaces; the curly-haired missionary steps back toward him with a hand half-raised, keeping an arm's length. Mouths stay closed. No captions or on-screen text.
+
+overall_soundscape: Daytime street ambience, a passing car, birds. A short pained hiss through closed lips. No voices, narration or singing.
+
+non_diegetic_music: N/A

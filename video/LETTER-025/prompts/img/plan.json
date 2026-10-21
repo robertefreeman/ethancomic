@@ -1,0 +1,116 @@
+{
+ "frames": [
+  {
+   "id": "s02",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png"
+   ]
+  },
+  {
+   "id": "s03",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/LETTER-025_IMG-20260324-WA0017.jpg",
+    "refs/LETTER-025_IMG-20260324-WA0015.jpg"
+   ]
+  },
+  {
+   "id": "s05",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/LETTER-025_IMG-20260320-WA0028.jpg"
+   ]
+  },
+  {
+   "id": "s06",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/yallico-character-sheet.png",
+    "refs/LETTER-025_20260321_141613.jpg"
+   ]
+  },
+  {
+   "id": "s07",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/yallico-character-sheet.png"
+   ]
+  },
+  {
+   "id": "s08",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/yallico-character-sheet.png"
+   ]
+  },
+  {
+   "id": "s09",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/yallico-character-sheet.png"
+   ]
+  },
+  {
+   "id": "s11",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/yallico-character-sheet.png",
+    "refs/LETTER-025_20260320_224158.jpg"
+   ]
+  },
+  {
+   "id": "s15",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png"
+   ]
+  },
+  {
+   "id": "s17",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/yallico-character-sheet.png"
+   ]
+  },
+  {
+   "id": "s18",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png"
+   ]
+  },
+  {
+   "id": "s21",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png"
+   ]
+  },
+  {
+   "id": "s22",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png",
+    "refs/yallico-character-sheet.png"
+   ]
+  },
+  {
+   "id": "s24",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png"
+   ]
+  },
+  {
+   "id": "s25",
+   "refs": [
+    "refs/ethan-character-sheet-90s.png"
+   ]
+  }
+ ],
+ "derived": {
+  "s12": "edit of s11",
+  "s13": "edit of s11",
+  "s14": "plate: s11 frame (clock overlay in Remotion)",
+  "s20": "still: s18 frame (punch-in in Remotion)",
+  "s19": "remotion over blurred s18",
+  "s01": "remotion",
+  "s16": "remotion",
+  "s23": "remotion"
+ }
+}

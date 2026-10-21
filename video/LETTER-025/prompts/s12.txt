@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] 2D-animated hand-drawn comic cartoon, fine ink outlines with light pencil hatching and flat muted warm watercolor color. Night in a small clinic room: a young missionary with short black hair and glasses sleeps peacefully in a bed with a blue pillow, an IV line in his forearm, the IV bag on a metal pole; a young missionary with curly light-brown hair sits in a white plastic chair, leaning forward, elbows on knees, watching him. The camera pushes in slowly toward the bed. The IV drips steadily; the sleeping patient's chest rises and falls slowly; the seated missionary lets out a slow breath and rubs his eyes. Mouths stay closed. No captions or on-screen text.
+
+overall_soundscape: Clinic room tone, a slow soft monitor beep, fluorescent hum, quiet steady breathing. No voices, narration or singing.
+
+non_diegetic_music: N/A
