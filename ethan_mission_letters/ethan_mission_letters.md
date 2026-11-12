@@ -1993,3 +1993,210 @@ Images:
  LETTER-051_IMG-20260921-WA0016.jpg
 
 ---
+
+## LETTER-052: Transferências
+
+**Email ID:** `1a182140fab1e281`
+**Letter Date:** `2026-10-28` (inferred)
+
+Olá,
+
+We went to a members' pizzeria this week for dinner. It was pretty sweet,
+they have a theme around card games and board games, so we were playing
+card games while we were waiting for our pizza.
+
+I'm also going to be transferred, I'll be going to Niterói in Canoas, which
+is the city right below me, and I'll be training a brand new missionary.
+
+There were also elections this week, and the current president won (Lula),
+which nobody here in the south is happy about. Besides that, not too much
+happened this week.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-052_20261014_190157.jpg
+ LETTER-052_20261017_115710.jpg
+ LETTER-052_20261017_173307.jpg
+ LETTER-052_20261021_192409.jpg
+ LETTER-052_20261021_193230.jpg
+ LETTER-052_9b1bf59a-17e3-4fde-a0d5-cf7f0aa92792-copied-media~2.jpg
+
+---
+
+## LETTER-053: Papai pela segunda vez
+
+**Email ID:** `1a1a72dfc707ff8f`
+**Letter Date:** `2026-11-04` (inferred)
+
+Olá,
+
+It was a interesting week this week. I picked up my filho on Wednesday, his
+name is Elder Johansen, he's from Oklahoma. He came directly from the Provo
+MTC, so we went to go try all the Rio Grande do Sul things this week. He
+liked paçoca a lot and bought a bucket (just like his papai). We also went
+to get açai, and he thought that was pretty good. He also really liked Xis
+(cheesburger). He burnt his tongue on chimarrão and spilled a little, but
+he liked it. I'm in Niterói now, which is the part of the city Canoas, and
+I'm in the part closest to Porto Alegre. It's a pretty small area, and it's
+kind of just like one giant neighborhood, but the members are really cool
+here and a lot of them speak at least a little bit of English (luckily for
+Elder Johansen).
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-053_20261029_161828.jpg
+ LETTER-053_IMG-20261028-WA0007-2.jpeg
+ LETTER-053_IMG-20261102-WA0028.jpg
+
+
+---
+
+
+## LETTER-054: Receitas por favor?
+
+**Email ID:** `1a1111aedd22ebb8`
+**Letter Date:** `2026-10-06` (inferred)
+
+Olá,
+
+We got told this week that we aren't allowed to eat with the single irmãs
+(old ladies usually) anymore. For a bit of context, we (usually) have lunch
+with members every day, and my lunches are about 30% single irmãs, so imma
+bout to hit the 10 months to sexy diet (if i survive that long). If any of
+you have recipes that don't require anything besides a pot (we don't have
+anything else in our kitchen) that would be nice, because I'm already tired
+of ramen.
+
+Besides that, my week wasn't all that interesting, one day we went to go
+find this guy and he said that he lived on street # and number # and that
+wasn't exactly where he lived but he would come get us, so me and Lopes
+were excited to get kidnapped, but it turns out that the entire
+neighborhood just had the same street name and we couldn't find any house
+numbers, so it was about 20 minutes of asking people if they knew this guy
+and not finding him, and 15 minutes after we left the neighborhood is when
+this guy texted us to tell us that we had passed his house.
+
+There was also general conference this week, which was great and I managed
+to stay awake this time, so i got to hear the great talk given by Elder
+Kyungu, and I really liked this qoute of his: “Rather than choosing words
+and language that escalate feelings of anger, disappointment and
+frustration, let us use words that encourage understanding and peace. We
+must choose language that strengthens confidence and preserves
+relationships.” Personally something I've noticed is a lot about how words
+have an affect on people, and about how just changing one word can
+completely change the effect of what comes out of your mouth (as I've
+learned the hard way).
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-054_IMG-20261005-WA0024.jpg
+ LETTER-054_IMG-20261005-WA0028.jpg
+ LETTER-054_IMG-20261005-WA0031.jpg
+
+
+---
+
+
+## LETTER-055: Almoço com traficante
+
+**Email ID:** `1a1376a43b345f95`
+**Letter Date:** `2026-10-13` (inferred)
+
+Olá,
+
+Pretty normal week this week. I have managed to have a meal with most of
+the nutrients I need every day this week. We had lunch this week with an
+inactive member who may or may not be a drug dealer. He had guy living in
+his house selling drugs and the guy told the police the drugs were the
+members. Besides that, this week wasn't too interesting.
+
+I used my time wisely this week to create a picture of my sister because
+she dislocated her knee (this picture is from when my brother dislocated
+his knee). We also had lunch with a Mexican irmã, and it was really good.
+There aren't a lot of pictures from this week, but we have Zone Conference
+tomorrow so there's going to be more photos next week.
+
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-055_image.jpg
+
+
+---
+
+
+## LETTER-056: Guten Tag?
+
+**Email ID:** `1a158db06225097e`
+**Letter Date:** `2026-10-20` (inferred)
+
+Pretty interesting week. We had a lesson this week with a couple that had
+their son, daughter in law, and granddaughter living with them. As we were
+talking (with the couple) and asking them about their life, religion, etc,
+they mentioned that they're granddaughter was getting her bath (she's about
+3) but would probably come say hi afterward. Anyways, we started the
+lesson, and the minute I opened my mouth, the bathroom door opened, and my
+vision filled with a fully grown naked man's buttocks. I can not describe
+how hard it was for me not to start laughing. Truly have never seen a moon
+fuller than this one. Luckily for me his wife came out in a towel, and the
+worst part is that the couch blocked Lopes's view so he didn't even see
+anything.
+
+Anyway, the other interesting thing that happened this week is that we went
+to go visit an irmã and her sister from a small city in Santa Catarina (the
+state right on top of Rio Grande do Sul). I was struggling to understand
+what the sister was saying, she was speaking Portuguese with a pretty
+interesting accent. As we were leaving, the irmã commented to us that she
+usually speaks in German with her sister, and that her sister doesn't speak
+too much Portuguese. This was pretty interesting to me because both of them
+are Brazilians, and neither of them have ever left Brasil. Anyways, we also
+had Zone Conference but that wasn't too interesting.
+
+
+Tchau,
+ IMG-20261013-WA0081.jpg
+<https://drive.google.com/file/d/1AqHPNUPhdzXbqmPTllvOlTxMNN-6ZJtq/view?usp=drive_web>
+ SEC01375.JPG
+<https://drive.google.com/file/d/1tb4E2sTGZq0CyCtfX9uIcDbUD-HTOkTn/view?usp=drive_web>
+ SEC01419.JPG
+<https://drive.google.com/file/d/1LS-sQLB4UHuQiU2--KhMU5dMYQFaCjMq/view?usp=drive_web>
+Elder Nelson
+
+Images:
+
+
+---
+
+
+## LETTER-057: Back to Black
+
+**Email ID:** `1a0f1e222f6bea21`
+**Letter Date:** `2026-09-30` (inferred)
+
+Olá,
+
+It's started to get hot. As the title of the email suggests, I have tanned
+slightly. The weather has been cycling of going from being cold, then super
+hot, then raining.
+
+This week wasn't too interesting, just me sweating a lot, but I'm making
+pão de queijo today, because my companion is from Minas Gerais, which is
+the land of cheese apparently, and he is always complaining about how bad
+the cheese is here. Anyways besides that, not a super interesting week.
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-057_20260928_151107.jpg
+
+
+---
