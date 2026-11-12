@@ -1994,72 +1994,35 @@ Images:
 
 ---
 
-## LETTER-052: Transferências
+## LETTER-052: Back to Black
 
-**Email ID:** `1a182140fab1e281`
-**Letter Date:** `2026-10-28` (inferred)
+**Email ID:** `1a0f1e222f6bea21`
+**Letter Date:** `2026-09-30`
 
 Olá,
 
-We went to a members' pizzeria this week for dinner. It was pretty sweet,
-they have a theme around card games and board games, so we were playing
-card games while we were waiting for our pizza.
+It's started to get hot. As the title of the email suggests, I have tanned
+slightly. The weather has been cycling of going from being cold, then super
+hot, then raining.
 
-I'm also going to be transferred, I'll be going to Niterói in Canoas, which
-is the city right below me, and I'll be training a brand new missionary.
-
-There were also elections this week, and the current president won (Lula),
-which nobody here in the south is happy about. Besides that, not too much
-happened this week.
+This week wasn't too interesting, just me sweating a lot, but I'm making
+pão de queijo today, because my companion is from Minas Gerais, which is
+the land of cheese apparently, and he is always complaining about how bad
+the cheese is here. Anyways besides that, not a super interesting week.
 
 Tchau,
 Elder Nelson
 
 Images:
- LETTER-052_20261014_190157.jpg
- LETTER-052_20261017_115710.jpg
- LETTER-052_20261017_173307.jpg
- LETTER-052_20261021_192409.jpg
- LETTER-052_20261021_193230.jpg
- LETTER-052_9b1bf59a-17e3-4fde-a0d5-cf7f0aa92792-copied-media~2.jpg
-
----
-
-## LETTER-053: Papai pela segunda vez
-
-**Email ID:** `1a1a72dfc707ff8f`
-**Letter Date:** `2026-11-04` (inferred)
-
-Olá,
-
-It was a interesting week this week. I picked up my filho on Wednesday, his
-name is Elder Johansen, he's from Oklahoma. He came directly from the Provo
-MTC, so we went to go try all the Rio Grande do Sul things this week. He
-liked paçoca a lot and bought a bucket (just like his papai). We also went
-to get açai, and he thought that was pretty good. He also really liked Xis
-(cheesburger). He burnt his tongue on chimarrão and spilled a little, but
-he liked it. I'm in Niterói now, which is the part of the city Canoas, and
-I'm in the part closest to Porto Alegre. It's a pretty small area, and it's
-kind of just like one giant neighborhood, but the members are really cool
-here and a lot of them speak at least a little bit of English (luckily for
-Elder Johansen).
-
-Tchau,
-Elder Nelson
-
-Images:
- LETTER-053_20261029_161828.jpg
- LETTER-053_IMG-20261028-WA0007-2.jpeg
- LETTER-053_IMG-20261102-WA0028.jpg
+ LETTER-052_20260928_151107.jpg
 
 
 ---
 
-
-## LETTER-054: Receitas por favor?
+## LETTER-053: Receitas por favor?
 
 **Email ID:** `1a1111aedd22ebb8`
-**Letter Date:** `2026-10-06` (inferred)
+**Letter Date:** `2026-10-06`
 
 Olá,
 
@@ -2095,18 +2058,17 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-054_IMG-20261005-WA0024.jpg
- LETTER-054_IMG-20261005-WA0028.jpg
- LETTER-054_IMG-20261005-WA0031.jpg
+ LETTER-053_IMG-20261005-WA0024.jpg
+ LETTER-053_IMG-20261005-WA0028.jpg
+ LETTER-053_IMG-20261005-WA0031.jpg
 
 
 ---
 
-
-## LETTER-055: Almoço com traficante
+## LETTER-054: Almoço com traficante
 
 **Email ID:** `1a1376a43b345f95`
-**Letter Date:** `2026-10-13` (inferred)
+**Letter Date:** `2026-10-13`
 
 Olá,
 
@@ -2127,16 +2089,15 @@ Tchau,
 Elder Nelson
 
 Images:
- LETTER-055_image.jpg
+ LETTER-054_image.jpg
 
 
 ---
 
-
-## LETTER-056: Guten Tag?
+## LETTER-055: Guten Tag?
 
 **Email ID:** `1a158db06225097e`
-**Letter Date:** `2026-10-20` (inferred)
+**Letter Date:** `2026-10-20`
 
 Pretty interesting week. We had a lesson this week with a couple that had
 their son, daughter in law, and granddaughter living with them. As we were
@@ -2175,28 +2136,63 @@ Images:
 
 ---
 
+## LETTER-056: Transferências
 
-## LETTER-057: Back to Black
-
-**Email ID:** `1a0f1e222f6bea21`
-**Letter Date:** `2026-09-30` (inferred)
+**Email ID:** `1a182140fab1e281`
+**Letter Date:** `2026-10-28`
 
 Olá,
 
-It's started to get hot. As the title of the email suggests, I have tanned
-slightly. The weather has been cycling of going from being cold, then super
-hot, then raining.
+We went to a members' pizzeria this week for dinner. It was pretty sweet,
+they have a theme around card games and board games, so we were playing
+card games while we were waiting for our pizza.
 
-This week wasn't too interesting, just me sweating a lot, but I'm making
-pão de queijo today, because my companion is from Minas Gerais, which is
-the land of cheese apparently, and he is always complaining about how bad
-the cheese is here. Anyways besides that, not a super interesting week.
+I'm also going to be transferred, I'll be going to Niterói in Canoas, which
+is the city right below me, and I'll be training a brand new missionary.
+
+There were also elections this week, and the current president won (Lula),
+which nobody here in the south is happy about. Besides that, not too much
+happened this week.
 
 Tchau,
 Elder Nelson
 
 Images:
- LETTER-057_20260928_151107.jpg
+ LETTER-056_20261014_190157.jpg
+ LETTER-056_20261017_115710.jpg
+ LETTER-056_20261017_173307.jpg
+ LETTER-056_20261021_192409.jpg
+ LETTER-056_20261021_193230.jpg
+ LETTER-056_9b1bf59a-17e3-4fde-a0d5-cf7f0aa92792-copied-media~2.jpg
+
+---
+
+## LETTER-057: Papai pela segunda vez
+
+**Email ID:** `1a1a72dfc707ff8f`
+**Letter Date:** `2026-11-04`
+
+Olá,
+
+It was a interesting week this week. I picked up my filho on Wednesday, his
+name is Elder Johansen, he's from Oklahoma. He came directly from the Provo
+MTC, so we went to go try all the Rio Grande do Sul things this week. He
+liked paçoca a lot and bought a bucket (just like his papai). We also went
+to get açai, and he thought that was pretty good. He also really liked Xis
+(cheesburger). He burnt his tongue on chimarrão and spilled a little, but
+he liked it. I'm in Niterói now, which is the part of the city Canoas, and
+I'm in the part closest to Porto Alegre. It's a pretty small area, and it's
+kind of just like one giant neighborhood, but the members are really cool
+here and a lot of them speak at least a little bit of English (luckily for
+Elder Johansen).
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-057_20261029_161828.jpg
+ LETTER-057_IMG-20261028-WA0007-2.jpeg
+ LETTER-057_IMG-20261102-WA0028.jpg
 
 
 ---
