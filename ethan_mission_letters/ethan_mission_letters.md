@@ -2196,3 +2196,32 @@ Images:
 
 
 ---
+
+
+## LETTER-058: Mais uma semana
+
+**Email ID:** `1a1d2301679d6e33`
+**Letter Date:** `2026-11-12`
+
+Olá,
+
+Nothing too interesting happened this week. Our p-day got moved to
+Wednesday so that we could go to the temple, so that's why this email is a
+bit late. Something that I think is interesting is that our area is right
+next to a military airbase so there are always jets flying above us, and i
+think that's pretty cool, but they are pretty loud. I also got to see Elder
+Lopes today at the temple, and that was super dope. We also bought a pizza
+today, so Elder Johansen got to try Brazilian pizza, he thought the
+chocolate in the crust was pretty good.
+
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-058_20261111_205324.jpg
+ LETTER-058_IMG-20261102-WA0028.jpg
+ LETTER-058_IMG-20261110-WA0032.jpg
+ LETTER-058_IMG-20261110-WA0044.jpg
+
+---
