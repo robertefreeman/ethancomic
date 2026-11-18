@@ -2225,3 +2225,41 @@ Images:
  LETTER-058_IMG-20261110-WA0044.jpg
 
 ---
+
+
+## LETTER-059: Churrascão
+
+**Email ID:** `1a1ebf1ac6a39663`
+**Letter Date:** `2026-11-17`
+
+Olá,
+Not too much has happened in the last couple of days. We had a churrasco
+and that was pretty dope, I got to help with putting the meat on the
+espetos (skewers) and luckily did not put it through my hand.
+
+We have Zone Conference this week, so there will probably be some good
+pictures for next week. I was informed that one of my pictures from last
+week needs context (the one of me getting sprayed). I have to give
+trainings every week and also do practices, and for this practice I had the
+sisters teach me and spray me every time they mentioned baptism.
+
+It has also been suuuuppper hot this week, so all of my money has been
+spent on açai and water. It's supposed to be hotter this week and rain this
+week, so I'm not too excited.
+
+
+Tchau,
+Elder Nelson
+
+Images:
+ LETTER-059_IMG-20261114-WA0016.jpg
+ LETTER-059_IMG-20261114-WA0017.jpg
+ LETTER-059_IMG-20261114-WA0018.jpg
+ LETTER-059_IMG-20261114-WA0019.jpg
+ LETTER-059_IMG-20261114-WA0020.jpg
+ LETTER-059_IMG-20261114-WA0022.jpg
+ LETTER-059_IMG-20261114-WA0023.jpg
+ LETTER-059_IMG-20261114-WA0024.jpg
+ LETTER-059_IMG-20261114-WA0025.jpg
+
+---
